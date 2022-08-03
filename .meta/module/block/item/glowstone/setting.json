@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_glowstone"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/glowstone.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7a57674c99269fd5139eb736286023c2",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

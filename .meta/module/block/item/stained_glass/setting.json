@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "name": {
+      "value": "block_stained_glass"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/glass_new.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "31019c27b9b227fa9b19a51da8d73903",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

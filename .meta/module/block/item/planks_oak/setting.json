@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_planks_oak"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_oak_planks_oak.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5345bd37ed7e574181ea50aa9979ecad",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

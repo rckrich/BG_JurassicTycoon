@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_bedrock"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/bedrock.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "073266a251502917137dee491182ac32",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

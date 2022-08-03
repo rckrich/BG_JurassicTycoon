@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_log_acacia"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/log_acacia_log_acacia.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/log_acacia_top.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/log_acacia_log_acacia.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/log_acacia_log_acacia.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/log_acacia_log_acacia.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/log_acacia_top.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "cda5ac1e4c1992ff3243ec196e915b95",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": false,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "dropCount": 1,
+  "dropSelf": false,
+  "fall": false,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "recycle": false,
+  "recycleTime": 20,
+  "spring": 0,
+  "texture": [
+    "@asset/Texture/Block/grass_side_snowed-55.png",
+    "@asset/Texture/Block/grass_side_snowed-54.png",
+    "@asset/Texture/Block/grass_side_snowed-55.png",
+    "@asset/Texture/Block/grass_side_snowed-55.png",
+    "@asset/Texture/Block/grass_side_snowed-55.png",
+    "@asset/Texture/Block/grass_side_snowed-55.png"
+  ]
+}

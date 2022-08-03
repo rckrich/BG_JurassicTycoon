@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "name": {
+      "value": "block_glass_cyan"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/glass_cyan.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "66b6bce3832eb595c27619e70960b67b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

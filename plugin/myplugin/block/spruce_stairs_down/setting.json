@@ -1,0 +1,63 @@
+{
+  "base": "oak_stairs",
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": false,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 1,
+        "y": 0.5,
+        "z": 1
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0
+      }
+    }
+  ],
+  "defaultTexture": "/block/spruce_stairs/spruce.png",
+  "dropCount": 1,
+  "dropSelf": false,
+  "fall": false,
+  "isOpaqueFullCube": false,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "recycle": false,
+  "recycleTime": 20,
+  "rotation": {
+    "x": 180,
+    "y": 0,
+    "z": 0
+  },
+  "spring": 0,
+  "texture": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

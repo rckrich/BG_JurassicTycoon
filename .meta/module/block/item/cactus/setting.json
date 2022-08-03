@@ -1,0 +1,41 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "collisionBoxes": [
+      {
+        "max": {
+          "x": 0.75,
+          "z": 0.75
+        },
+        "min": {
+          "x": 0.25,
+          "z": 0.25
+        }
+      }
+    ],
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "isQuad": true,
+    "name": {
+      "value": "block_cactus"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9241f0d02cad1139075119fcea7216da",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

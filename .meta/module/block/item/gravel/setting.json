@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_gravel"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/gravel.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/gravel.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/gravel.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/gravel.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/gravel.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/gravel.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1123c61a20c8467edc97b53c80192794",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

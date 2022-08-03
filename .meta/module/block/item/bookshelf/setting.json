@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_bookshelf"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/bookshelf.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_oak.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/bookshelf.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/bookshelf.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/bookshelf.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_oak.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "dabfe602bbf17a2001834669884bf00b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

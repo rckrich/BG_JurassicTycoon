@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_planks_acacia"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_acacia_planks_acacia.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "bc3e2c8f315584c8b752c8056c88c618",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

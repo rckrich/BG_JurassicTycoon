@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_wool_5"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/wool_colored_lime_wool_5.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "55ee1bc683c4b479191d5095cdf1caf1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

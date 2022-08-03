@@ -1,0 +1,29 @@
+{
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": true,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [],
+  "dropCount": 1,
+  "dropSelf": false,
+  "emitLightInMaxLightMode": true,
+  "fall": false,
+  "focusable": false,
+  "isOpaqueFullCube": false,
+  "lightOpacity": 0,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "recycle": false,
+  "recycleTime": 20,
+  "renderPass": 5,
+  "spring": 0,
+  "texture": [
+    "/water_flow.png",
+    "/water_flow.png",
+    "/water_flow.png",
+    "/water_flow.png",
+    "/water_flow.png",
+    "/water_flow.png"
+  ]
+}

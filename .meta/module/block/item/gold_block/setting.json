@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_gold_block"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/gold_block.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "78565b690ead43df410e88adb68770e1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

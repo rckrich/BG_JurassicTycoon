@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_concrete_powder_cyan"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/concrete_powder_cyan.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "71fb501510a5dec61245cc5139abd927",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

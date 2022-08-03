@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "fall": true,
+    "name": {
+      "value": "block_emerald_ore"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/emerald_ore.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c1f3c68fcbef54270296ed232d034dd1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": true,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [],
+  "dropCount": 1,
+  "dropSelf": false,
+  "emitLightInMaxLightMode": true,
+  "fall": false,
+  "focusable": false,
+  "isOpaqueFullCube": false,
+  "lightOpacity": 0,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "quads": [
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 1
+        }
+      ],
+      "texture": "/water_still.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 0
+        }
+      ],
+      "texture": "/water_still.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 0
+        }
+      ],
+      "texture": "/water_still.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 1
+        }
+      ],
+      "texture": "/water_still.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 0.6,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 0.6,
+          "z": 0
+        }
+      ],
+      "texture": "/water_still.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        }
+      ],
+      "texture": "/water_still.png"
+    }
+  ],
+  "recycle": false,
+  "recycleTime": 20,
+  "renderPass": 5,
+  "spring": 0,
+  "texture": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

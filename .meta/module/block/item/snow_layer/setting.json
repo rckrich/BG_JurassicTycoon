@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_snow_layer"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/grass_side_snowed-55.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/grass_side_snowed-55.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/grass_side_snowed-55.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/grass_side_snowed-55.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/grass_side_snowed-55.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/grass_side_snowed-54.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "91210337636a361fc23d1ca90975ed5d",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

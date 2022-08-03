@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_pumpkin_face_off_3"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/pumpkin_side_pumpkin_face_off_3.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/pumpkin_top_pumpkin_face_off_3.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/pumpkin_face_off_pumpkin_face_off_3.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/pumpkin_side_pumpkin_face_off_3.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/pumpkin_side_pumpkin_face_off_3.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/pumpkin_top_pumpkin_face_off_3.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "756231105e4e73b1064931c5e68341b5",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

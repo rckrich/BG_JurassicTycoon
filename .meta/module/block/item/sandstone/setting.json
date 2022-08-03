@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_sandstone"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/sandstone_normal_sandstone.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/sandstone_bottom_sandstone.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/sandstone_normal_sandstone.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/sandstone_normal_sandstone.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/sandstone_normal_sandstone.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/sandstone_top_sandstone.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "080b55908602398866661ce3c188d712",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

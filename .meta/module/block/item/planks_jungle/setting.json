@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_planks_jungle"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_jungle_planks_jungle.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "325826c3392ab1dc59811264d7c93be8",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

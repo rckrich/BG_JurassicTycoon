@@ -1,0 +1,41 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "collisionBoxes": [
+      {
+        "max": {
+          "x": 0.55,
+          "z": 0.55
+        },
+        "min": {
+          "x": 0.45,
+          "z": 0.45
+        }
+      }
+    ],
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "isQuad": true,
+    "name": {
+      "value": "block_glass_pane_top"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "22c144b246c6734b965e9b43cb8a9100",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_double_wooden_slab"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_oak_double_wooden_slab.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "0c42e4c003ce381f03f9fe0ecb7de0b1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

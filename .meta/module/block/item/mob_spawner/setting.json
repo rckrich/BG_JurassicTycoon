@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_mob_spawner"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/mob_spawner.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "717e85d2e261b9b69b1b282f744e16d6",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

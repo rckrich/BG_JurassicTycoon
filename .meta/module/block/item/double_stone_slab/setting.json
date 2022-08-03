@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_double_stone_slab"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/stone_slab_side.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/stone_slab_top.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/stone_slab_side.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/stone_slab_side.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/stone_slab_side.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/stone_slab_top.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "e1f7574726841f1172b62b1c834b3e73",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

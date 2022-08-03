@@ -1,0 +1,46 @@
+{
+  "base": "base_block",
+  "breakTime": 20,
+  "canBreak": false,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": false,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "dropCount": 1,
+  "dropSelf": false,
+  "editBaseFunc": "block_breakTime",
+  "fall": false,
+  "isOpaqueFullCube": false,
+  "lightOpacity": 0,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "recycle": false,
+  "recycleTime": 20,
+  "renderable": false,
+  "spring": 0,
+  "texture": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

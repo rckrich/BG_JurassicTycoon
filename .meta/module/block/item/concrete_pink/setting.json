@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_concrete_pink"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/concrete_pink.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c6b3c7eb675f06b33b4c188ebbad0d58",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

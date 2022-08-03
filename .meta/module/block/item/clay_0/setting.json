@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_clay_0"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/clay.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/clay.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/clay.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/clay.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/clay.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/clay.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7be9543f86fdf6f0c6ee1128206c8d43",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

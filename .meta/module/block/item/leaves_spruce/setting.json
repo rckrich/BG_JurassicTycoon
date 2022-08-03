@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "name": {
+      "value": "block_leaves_spruce"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/leaves_spruce.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "18f234239a2af775413105db6ec0cdb2",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

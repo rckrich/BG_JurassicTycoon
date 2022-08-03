@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_planks_spruce"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/planks_spruce_planks_spruce.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "39546b3d240e06b5698dd674266f43f6",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

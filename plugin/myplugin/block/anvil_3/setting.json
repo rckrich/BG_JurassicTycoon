@@ -1,0 +1,178 @@
+{
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": false,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [],
+  "dropCount": 1,
+  "dropSelf": false,
+  "fall": false,
+  "isOpaqueFullCube": false,
+  "lightOpacity": 0,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "quads": [
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 0.8,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0.8,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0.8,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0.8,
+          "z": 0
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_0_anvil_3.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 0.2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0.2,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0.2,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0.2,
+          "z": 1
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_0_anvil_3.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 1,
+          "z": 0.2
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 0.2
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.2
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0.2
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_0_anvil_3.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 1,
+          "z": 0.8
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 0.8
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0.8
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0.8
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_0_anvil_3.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 1,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_anvil_3.png"
+    },
+    {
+      "pos": [
+        {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 1
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      ],
+      "texture": "@asset/Texture/Block/anvil_top_damaged_anvil_3.png"
+    }
+  ],
+  "recycle": false,
+  "recycleTime": 20,
+  "spring": 0,
+  "texture": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

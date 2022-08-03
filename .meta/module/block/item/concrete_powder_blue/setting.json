@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_concrete_powder_blue"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/concrete_powder_blue.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "81cbdd192185f35b4513be8b31cae794",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

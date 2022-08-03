@@ -1,0 +1,42 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/client_script"
+      }
+    ],
+    "actorModel": {
+      "actorName": {
+        "asset": ""
+      },
+      "girlactor": {
+        "asset": ""
+      }
+    },
+    "AI_home": {
+      "homeSize": 5
+    },
+    "boundingVolume": {
+      "height": 1.7,
+      "radius": 0.43,
+      "type": "Capsule"
+    },
+    "deadAction": {
+      "deathHideTime": {
+        "value": 60
+      },
+      "playDeadAction": "die_front"
+    },
+    "isPlayer": true,
+    "name": {
+      "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "cc0c41bf62ddb615b13be74fcb28500b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "collisionBoxes": [
+      {
+        "max": {
+          "x": 0.75,
+          "z": 0.75
+        },
+        "min": {
+          "x": 0.25,
+          "z": 0.25
+        }
+      }
+    ],
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "isQuad": true,
+    "name": {
+      "value": "block_cobblestone_wall_0"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "94b7359b4201b0d3ed895abf1a18a220",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

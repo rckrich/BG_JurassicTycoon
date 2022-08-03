@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_log_birch"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/log_birch.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/log_birch_top.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/log_birch.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/log_birch.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/log_birch.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/log_birch_top.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "08a5165fd537004d812d9df9d22a1e13",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

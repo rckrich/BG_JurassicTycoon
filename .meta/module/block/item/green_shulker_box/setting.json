@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_green_shulker_box"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/shulker_top_green.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6eee34f4a79573a63b6d41820a065b14",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

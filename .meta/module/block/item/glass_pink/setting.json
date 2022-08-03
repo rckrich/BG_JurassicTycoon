@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "isOpaqueFullCube": false,
+    "name": {
+      "value": "block_glass_pink"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/glass_pink_glass_pink.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c05fe79c32c6a65a791bf6348f2026b3",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

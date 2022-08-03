@@ -1,0 +1,47 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "name": {
+      "value": "block_ice"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/ice.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/ice.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/ice.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/ice.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/ice.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/ice.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "804b94a504eef03bfbca960ef8f6a6d0",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

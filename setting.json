@@ -1,0 +1,270 @@
+{
+  "automatch": false,
+  "bagCap": 9,
+  "cameraCfg": {
+    "canSwitchView": true,
+    "defaultPitch": 0,
+    "defaultView": 0,
+    "defaultYaw": 0,
+    "viewModeConfig": [
+      {
+        "enable": true,
+        "lockSlideScreen": false,
+        "viewFovAngle": 75
+      },
+      {
+        "distance": 4,
+        "enable": true,
+        "enableCollisionDetect": true,
+        "lockSlideScreen": false,
+        "viewFovAngle": 75
+      },
+      {
+        "distance": 4,
+        "enable": false,
+        "enableCollisionDetect": true,
+        "lockSlideScreen": false,
+        "viewFovAngle": 75
+      },
+      {
+        "distance": 4,
+        "enable": false,
+        "enableCollisionDetect": true,
+        "lockBodyRotation": false,
+        "lockSlideScreen": false,
+        "viewFovAngle": 75
+      },
+      {
+        "enable": false,
+        "lockBodyRotation": false,
+        "lockSlideScreen": false,
+        "lockViewPos": true,
+        "pos": {
+          "__OBJ_TYPE": "Vector3i",
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "viewFovAngle": 75
+      }
+    ]
+  },
+  "canJoinMidway": false,
+  "defaultMap": "map001",
+  "defaultQualityLevel": 0,
+  "dragControlConfig": {
+    "useDragControl": true
+  },
+  "editorFovAngle": 65,
+  "engineDefUIEnable": {
+    "actionControl": true,
+    "actionControlMode": "flexibleDragControl",
+	"appMainRole": true,
+    "chat": true,
+    "playerinfo": true,
+    "shortcutBar": true,
+    "toolbar": true
+  },
+  "forcePickBlock": true,
+  "hideCloud": false,
+  "hideTeamStatusBar": false,
+  "ignoreEmptyStartPos": false,
+  "initPos": {
+    "map": "map001",
+    "x": 28,
+    "y": 54,
+    "z": 34
+  },
+  "isTimeStopped": true,
+  "jumpControlConfig": {
+    "area": [
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        200
+      ],
+      [
+        0,
+        200
+      ]
+    ],
+    "jumpImage": {
+      "name": "jump_imagesets/icon_jump_nor.png"
+    },
+    "jumpPushImage": {
+      "name": "jump_imagesets/icon_jump_act.png"
+    },
+    "useGroup": "_imagesets_"
+  },
+  "maxPlayers": 6,
+  "minPlayers": 1,
+  "moveStateConfig": {
+    "isShow": false
+  },
+  "needSave": false,
+  "noLoadHp": true,
+  "notReadUserSettingCfgAtEditor": true,
+  "nowTime": 18001.666666667,
+  "oneDayTime": 600.0,
+  "personalSettingUI": {
+    "controlMode": true,
+    "guiSize": false,
+    "horizon": false,
+    "imageQuality": true,
+    "jumpSneakState": false,
+    "luminance": false,
+    "sensitive": true,
+    "volume": true
+  },
+  "personalShop": false,
+  "playerCfg": "myplugin/player1",
+  "playTime": -1,
+  "qualityLevelData": {
+    "maxLevel": [
+      2,
+      0,
+      0.6,
+      0.68,
+      0.00132,
+      3,
+      1.4,
+      1,
+      1,
+      0.22,
+      -0.00132,
+      0.43,
+      1,
+      0,
+      0.1,
+      0,
+      0,
+      2,
+      2,
+      1,
+      0,
+      2,
+      1.8
+    ]
+  },
+  "replay": false,
+  "reportTime": 1200,
+  "skillJack": {
+    "AJackArea": [
+      [
+        0,
+        -40
+      ],
+      [
+        0,
+        -40
+      ],
+      [
+        0,
+        120
+      ],
+      [
+        0,
+        120
+      ]
+    ],
+    "hideBJack": true,
+    "lineSkills": [
+      {
+        "hAlign": 2,
+        "itemSpace": 30,
+        "jackNum": 2,
+        "jackSize": 80,
+        "vAlign": 1,
+        "xOffset": -50,
+        "yOffset": 0
+      },
+      {
+        "hAlign": 1,
+        "itemSpace": 30,
+        "jackNum": 4,
+        "jackSize": 80,
+        "vAlign": 0,
+        "xOffset": 0,
+        "yOffset": 50
+      }
+    ],
+    "sectorSkills": [
+      {
+        "deltaAngle": 45,
+        "jackNum": 3,
+        "jackSize": 88,
+        "radius": 170,
+        "startAngle": 270
+      }
+    ]
+  },
+  "startPos": [
+    {
+      "map": "map001",
+      "x": 28,
+      "y": 54,
+      "z": 34
+    }
+  ],
+  "team": [],
+  "teammateHurt": false,
+  "topTeamInfo": {
+    "teamDieIcon": "flag_textures/flag_die",
+    "teamDieIconArea": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        -7
+      ],
+      [
+        0,
+        20
+      ],
+      [
+        0,
+        20
+      ]
+    ],
+    "teamInfoArea": [
+      [
+        0,
+        -5
+      ],
+      [
+        0,
+        -3
+      ],
+      [
+        0,
+        53.45
+      ],
+      [
+        0,
+        17
+      ]
+    ]
+  },
+  "useNewFirstViewer": true,
+  "useNewQuadConfig": true,
+  "useNewUI": true,
+  "useVoxelTerrain": false,
+  "vars": {
+    "__OBJ_TYPE": [],
+    "entity": [],
+    "global": []
+  },
+  "waitAtInitPos": true,
+  "waitGoTime": 100,
+  "waitPlayerTime": 100,
+  "waitStartTime": 100
+}

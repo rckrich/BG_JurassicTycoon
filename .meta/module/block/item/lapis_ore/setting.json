@@ -1,0 +1,48 @@
+{
+  "data": {
+    "breakBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "dropSelf": {
+      "canDropSelf": false
+    },
+    "fall": true,
+    "name": {
+      "value": "block_lapis_ore"
+    },
+    "placeBlockSound": {
+      "volume": {
+        "value": 0
+      }
+    },
+    "textures": {
+      "back": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      },
+      "down": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      },
+      "front": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      },
+      "left": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      },
+      "right": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      },
+      "up": {
+        "asset": "asset/Texture/Block/lapis_ore.png"
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "8136d7a17f192f9e2e64c9eb8aa9c24e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

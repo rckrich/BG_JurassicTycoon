@@ -1,0 +1,289 @@
+{
+  "breakTime": 20,
+  "canClick": false,
+  "candrop": false,
+  "canSwim": false,
+  "climbSpeed": 0.0,
+  "collisionBoxes": [
+    {
+      "__OBJ_TYPE": "Box",
+      "max": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0.55,
+        "y": 1,
+        "z": 0.55
+      },
+      "min": {
+        "__OBJ_TYPE": "Vector3",
+        "x": 0.45,
+        "y": 0,
+        "z": 0.45
+      }
+    }
+  ],
+  "dropCount": 1,
+  "dropSelf": false,
+  "fall": false,
+  "isOpaqueFullCube": false,
+  "lightOpacity": 0,
+  "maxFallSpeed": 1.5,
+  "maxSpeed": 500.0,
+  "quads": [
+    {
+      "texture": "@asset/Texture/Block/glass_pane_top.png",
+      "vertices": [
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0.1
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0.1
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "texture": "@asset/Texture/Block/glass_pane_top.png",
+      "vertices": [
+        {
+          "position": {
+            "x": 0.55,
+            "y": 0,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 0,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "texture": "@asset/Texture/Block/glass_pane_top.png",
+      "vertices": [
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 0,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 0,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "texture": "@asset/Texture/Block/glass_pane_top.png",
+      "vertices": [
+        {
+          "position": {
+            "x": 0.55,
+            "y": 0,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 0,
+            "z": 0.55
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "texture": "@asset/Texture/Block/glass_pane_top.png",
+      "vertices": [
+        {
+          "position": {
+            "x": 0.45,
+            "y": 0,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 0
+          }
+        },
+        {
+          "position": {
+            "x": 0.45,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.45,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 1,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 1
+          }
+        },
+        {
+          "position": {
+            "x": 0.55,
+            "y": 0,
+            "z": 0.45
+          },
+          "textureCoord": {
+            "x": 0.55,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ],
+  "recycle": false,
+  "recycleTime": 20,
+  "spring": 0,
+  "texture": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
