@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/bone_block_8"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e43f133728f4dd6782f0fba8f4c87acf",
+      "setting.json": "5c23f3ba8a9149e332de03ddf6639571",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

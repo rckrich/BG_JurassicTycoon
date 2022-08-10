@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/stone_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "007a0ae28cb626ee0ef3672122b3eb9a",
+      "setting.json": "4d68bac1e119a30a8561db3a27533259",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

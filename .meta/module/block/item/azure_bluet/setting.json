@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/azure_bluet"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "975f246cb357912adcdb4f0dd0909d52",
+      "setting.json": "5e4d2f27f339f77c6a3b7c5afd9a9bbe",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

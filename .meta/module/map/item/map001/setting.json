@@ -2,37 +2,19 @@
   "data": {
     "box": {
       "base": {
-        "__OBJ_TYPE": "SkyBoxStatic",
-        "back": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_back.png"
-        },
-        "bottom": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_bottom.png"
-        },
-        "front": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_front.png"
-        },
-        "left": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_left.png"
-        },
-        "right": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_right.png"
-        },
-        "top": {
-          "selector": "editor/BlockEmpty/asset/Texture/SkyBox/Common2/Sky03_top.png"
-        }
+        "__OBJ_TYPE": "SkyBoxStatic"
       }
     },
     "instances": [
       {
         "__OBJ_TYPE": "Instance_Entity",
-        "config": "myplugin/player1",
-        "id": "8736037211539144705",
-        "name": "player1",
+        "config": "myplugin/0376e193-fab8-40c1-ab20-716c0268cd4e",
+        "id": "8753009864225046529",
+        "name": "NPC",
         "position": {
-          "x": 28.028276443481,
-          "y": 52.949996948242,
-          "z": 31.461315155029
+          "x": 24.271844863892,
+          "y": 53.001949310303,
+          "z": 26.955341339111
         }
       }
     ],
@@ -46,7 +28,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "aaec00d1059cbe0ad7ee8a3148681f88"
+      "setting.json": "ce86bdbd4514bfa7041bf3fb37a30161"
     },
     "VERSION": "0.22"
   }

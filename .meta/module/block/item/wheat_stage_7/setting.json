@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/wheat_stage_7"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f677f145ce90331b6cd427d0e12192a6",
+      "setting.json": "d199496334500a0db089dce23e0beacb",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

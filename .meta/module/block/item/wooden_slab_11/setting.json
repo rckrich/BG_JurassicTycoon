@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/wooden_slab_11"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "8813ee5ae5ac9ac8ca3957eaea919211",
+      "setting.json": "d48b8b6b3f9e281aa2b143badc80e292",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

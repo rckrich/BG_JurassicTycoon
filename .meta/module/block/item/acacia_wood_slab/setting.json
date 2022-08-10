@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/acacia_wood_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e1daa0de41bf521e3010b48c33baecf9",
+      "setting.json": "ef43a409ab1b9217dec478fe2402b53b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -19,11 +19,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/water_4"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/water_4"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/water_4"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/water_4"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/water_4"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/water_4"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ef6d4d9a0877345dad2b0faf3b76fca7",
+      "setting.json": "e826b1b005490cf2f4c5b105e733335b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

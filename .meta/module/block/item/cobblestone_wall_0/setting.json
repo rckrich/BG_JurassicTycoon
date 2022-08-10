@@ -29,11 +29,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/cobblestone_wall_0"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "94b7359b4201b0d3ed895abf1a18a220",
+      "setting.json": "e4caf9c60e35b82b08cb70165d5afba5",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

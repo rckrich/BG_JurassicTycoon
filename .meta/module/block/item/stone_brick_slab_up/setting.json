@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/stone_brick_slab_up"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9327d718b8e79a24d78eeb3df061e83c",
+      "setting.json": "b0a7884fca88c73a8c170785bdbb6264",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

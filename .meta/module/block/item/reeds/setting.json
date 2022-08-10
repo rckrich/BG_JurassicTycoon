@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/reeds"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/reeds"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/reeds"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/reeds"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/reeds"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/reeds"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "1171816e79b048412b6af9eafb60790a",
+      "setting.json": "ff99d3799c0def981363bb788f7813f4",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

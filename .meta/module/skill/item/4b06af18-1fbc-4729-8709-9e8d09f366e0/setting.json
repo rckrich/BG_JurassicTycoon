@@ -1,0 +1,27 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_4b06af18-1fbc-4729-8709-9e8d09f366e0"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Buff",
+        "buffCfg": "myplugin/dbaff4a0-3adc-430d-b651-c8d5eb676508",
+        "buffTime": {
+          "value": 400
+        }
+      },
+      "type": "Buff"
+    },
+    "skillReleaseWay": {
+      "isClick": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a67edf75cd93b2f86693c907e3a2cf1b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/beetroots_stage_1"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "15e5b4ddc50a08c7fef50f2383a51b46",
+      "setting.json": "29dfba6e971b2ae9f9ca46d53b84c498",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

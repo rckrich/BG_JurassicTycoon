@@ -1,0 +1,137 @@
+ENTITY_DIE {
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/214c6e1b-26df-49ea-9ec1-33985d368ba5",
+		map = $map,
+		pos = ComputeV3(
+		op = "add",
+		p1 = GetEntityPosition(entity = $obj1),
+		p2 = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 2,
+				y = 0,
+				z = 2
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	),
+		time = 2000
+	)
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/214c6e1b-26df-49ea-9ec1-33985d368ba5",
+		map = $map,
+		pos = ComputeV3(
+		op = "add",
+		p1 = GetEntityPosition(entity = $obj1),
+		p2 = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 2,
+				y = 0,
+				z = 2
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	),
+		time = 2000
+	)
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/214c6e1b-26df-49ea-9ec1-33985d368ba5",
+		map = $map,
+		pos = ComputeV3(
+		op = "add",
+		p1 = GetEntityPosition(entity = $obj1),
+		p2 = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 2,
+				y = 0,
+				z = 2
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	),
+		time = 2000
+	)
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/214c6e1b-26df-49ea-9ec1-33985d368ba5",
+		map = $map,
+		pos = ComputeV3(
+		op = "add",
+		p1 = GetEntityPosition(entity = $obj1),
+		p2 = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 2,
+				y = 0,
+				z = 2
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	),
+		time = 2000
+	)
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/214c6e1b-26df-49ea-9ec1-33985d368ba5",
+		map = $map,
+		pos = ComputeV3(
+		op = "add",
+		p1 = GetEntityPosition(entity = $obj1),
+		p2 = GetRandomPosInArea(
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = 2,
+				y = 0,
+				z = 2
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = 0,
+				y = 0,
+				z = 0
+			}
+		}
+	)
+	),
+		time = 2000
+	)
+}

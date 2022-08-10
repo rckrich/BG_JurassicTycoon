@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/jungle_stairs01"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ac6dde01fd4742b4a7a602069e4f592f",
+      "setting.json": "c7db6532f2c98e7404233cd42be393b9",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

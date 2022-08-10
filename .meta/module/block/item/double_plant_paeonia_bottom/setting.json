@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_paeonia_bottom"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f06f85306de540e8347e41767fdabc34",
+      "setting.json": "cca38459f5ca7e3d57d296e9d080b5f9",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

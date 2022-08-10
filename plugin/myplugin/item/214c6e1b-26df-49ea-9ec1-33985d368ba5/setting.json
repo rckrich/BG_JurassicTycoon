@@ -8,10 +8,11 @@
   "equip_skin": {
     "": ""
   },
-  "icon": "",
+  "icon": "@asset/Texture/Block/concrete_red.png",
   "itemname": "item_214c6e1b-26df-49ea-9ec1-33985d368ba5",
-  "needSave": false,
-  "stack_count_max": 1,
+  "mesh": "asset/Mesh/Actor_mesh/bed_armor_helmet_red.mesh",
+  "needSave": true,
+  "stack_count_max": 5,
   "syncGameData": {
     "currentCapacity": true,
     "extCapacity": true

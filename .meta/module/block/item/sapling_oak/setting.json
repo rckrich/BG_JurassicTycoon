@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/sapling_oak"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "29f82a634bc69d0a6f1ba9b2c3a738c8",
+      "setting.json": "a29572aa31a23e51c6d6b6922209482e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

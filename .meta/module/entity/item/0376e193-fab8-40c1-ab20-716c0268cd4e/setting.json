@@ -1,0 +1,18 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/charactor/charactor_girl/character_girl.actor"
+    },
+    "canClick": true,
+    "name": {
+      "value": "entity_0376e193-fab8-40c1-ab20-716c0268cd4e"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "af7a2ddf9551146e5899b8b772b720b9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

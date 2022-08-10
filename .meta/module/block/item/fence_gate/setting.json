@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/fence_gate"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2e19426ecc6fc76ac19fab134f3c9505",
+      "setting.json": "02429c73fae36ce2112834c993f48bf2",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

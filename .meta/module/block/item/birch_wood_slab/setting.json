@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/birch_wood_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "47df6e2449c3e508d17898a6019a4796",
+      "setting.json": "8e4b07b0518eadadf1a1d8f033d5eb75",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

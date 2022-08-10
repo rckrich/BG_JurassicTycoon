@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/stone_brick_stairs"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ee2263ccc8454804d322e3f34e560fcb",
+      "setting.json": "68ac7365f901af3f952ff387580e32a5",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

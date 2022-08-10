@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/oak_stairs02_down"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "3248586af78c39a40802fe586c6d5e22",
+      "setting.json": "bb394b7a584ecb4d658dd2534c6a47cf",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

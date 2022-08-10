@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/sandstone_stairs01"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "3f68c9ca36e6a47b797f0b317b921b64",
+      "setting.json": "3102e202aae8c32f5b861a770065ccbb",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

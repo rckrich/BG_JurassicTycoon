@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/flower_pot"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "836252dd331c85233fc9838a5f4f2e81",
+      "setting.json": "68173fa1d449788f0a3faeaccbbd94bd",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

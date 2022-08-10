@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/flower_tulip_white"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "67ccbc325b8fa3d79e48b1a3ce29ccb5",
+      "setting.json": "9f22b3f3192b567332b8c0ec04efd660",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

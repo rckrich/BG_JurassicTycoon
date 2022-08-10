@@ -14,12 +14,13 @@
         "z": 34
       }
     },
+    "needSave": true,
     "nowTime": {
       "h": 7,
       "m": 40
     },
     "player_range": {
-      "max": 6,
+      "max": 16,
       "min": 1
     },
     "startPos": {
@@ -28,6 +29,409 @@
         "x": 28,
         "z": 34
       }
+    },
+    "team": {
+      "automatch": true,
+      "team": [
+        {
+          "image": {
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_1.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 31,
+              "y": 53,
+              "z": 39
+            }
+          },
+          "memberLimit": 1,
+          "name": "team1",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 31,
+              "y": 53,
+              "z": 39
+            }
+          }
+        },
+        {
+          "id": 2,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_2.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_2.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 28,
+              "y": 53,
+              "z": 39
+            }
+          },
+          "memberLimit": 1,
+          "name": "team2",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 28,
+              "y": 53,
+              "z": 39
+            }
+          }
+        },
+        {
+          "id": 3,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_3.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_3.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 25,
+              "y": 53,
+              "z": 39
+            }
+          },
+          "memberLimit": 1,
+          "name": "team3",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 25,
+              "y": 53,
+              "z": 39
+            }
+          }
+        },
+        {
+          "id": 4,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_4.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_4.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 22,
+              "y": 53,
+              "z": 39
+            }
+          },
+          "memberLimit": 1,
+          "name": "team4",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 22,
+              "y": 53,
+              "z": 39
+            }
+          }
+        },
+        {
+          "id": 5,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_5.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_5.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 33
+            }
+          },
+          "memberLimit": 1,
+          "name": "team5",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 33
+            }
+          }
+        },
+        {
+          "id": 6,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_6.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_6.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 30
+            }
+          },
+          "memberLimit": 1,
+          "name": "team6",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 30
+            }
+          }
+        },
+        {
+          "id": 7,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_7.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_7.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 27
+            }
+          },
+          "memberLimit": 1,
+          "name": "team7",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 27
+            }
+          }
+        },
+        {
+          "id": 8,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_8.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_8.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 24
+            }
+          },
+          "memberLimit": 1,
+          "name": "team8",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 15,
+              "y": 53,
+              "z": 24
+            }
+          }
+        },
+        {
+          "id": 9,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_9.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_9.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 22,
+              "y": 53,
+              "z": 21
+            }
+          },
+          "memberLimit": 1,
+          "name": "team9",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 22,
+              "y": 53,
+              "z": 21
+            }
+          }
+        },
+        {
+          "id": 10,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_10.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_10.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 25,
+              "y": 53,
+              "z": 21
+            }
+          },
+          "memberLimit": 1,
+          "name": "team10",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 25,
+              "y": 53,
+              "z": 21
+            }
+          }
+        },
+        {
+          "id": 11,
+          "image": {
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_1.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 28,
+              "y": 53,
+              "z": 21
+            }
+          },
+          "memberLimit": 1,
+          "name": "team11",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 28,
+              "y": 53,
+              "z": 21
+            }
+          }
+        },
+        {
+          "id": 12,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_2.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_2.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 31,
+              "y": 53,
+              "z": 21
+            }
+          },
+          "memberLimit": 1,
+          "name": "team12",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 31,
+              "y": 53,
+              "z": 21
+            }
+          }
+        },
+        {
+          "id": 13,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_3.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_3.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 25
+            }
+          },
+          "memberLimit": 1,
+          "name": "team13",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 25
+            }
+          }
+        },
+        {
+          "id": 14,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_4.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_4.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 28
+            }
+          },
+          "memberLimit": 1,
+          "name": "team14",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 28
+            }
+          }
+        },
+        {
+          "id": 15,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_5.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_5.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 31
+            }
+          },
+          "memberLimit": 1,
+          "name": "team15",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 31
+            }
+          }
+        },
+        {
+          "id": 16,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_6.png",
+            "selector": "editor/BG_JurassicTycoon/asset/Texture/Team/flag/flag_6.png"
+          },
+          "initPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 34
+            }
+          },
+          "memberLimit": 1,
+          "name": "team16",
+          "startPos": {
+            "map": "map001",
+            "pos": {
+              "x": 41,
+              "y": 53,
+              "z": 34
+            }
+          }
+        }
+      ],
+      "teammateHurt": true
     },
     "unlimitedPlayTime": true,
     "waitGoTime": {
@@ -42,9 +446,10 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9c84c27969dbe7fa332100438c8b2b35",
+      "setting.json": "66a3c0804e01e5ab0fd33e407bbe3f56",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
-      "triggers.bts": ""
+      "triggers.bts": "",
+      "triggers_client.bts": ""
     },
     "VERSION": "0.22"
   }

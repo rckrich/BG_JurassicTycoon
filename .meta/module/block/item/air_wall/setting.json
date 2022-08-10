@@ -16,11 +16,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/air_wall"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/air_wall"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/air_wall"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/air_wall"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/air_wall"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/air_wall"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ebad86df217f54b02ecf32cd7784558d",
+      "setting.json": "411f45a6a5d38406714e6187357d7041",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

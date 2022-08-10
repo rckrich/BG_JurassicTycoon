@@ -6,14 +6,14 @@
   "scene": [
     {
       "class": "Entity",
-      "config": "myplugin/player1",
+      "config": "myplugin/0376e193-fab8-40c1-ab20-716c0268cd4e",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "id": "8736037211539144705",
-        "name": "player1",
+        "id": "8753009864225046529",
+        "name": "NPC",
         "needSync": "true",
-        "position": "x:28.028276443481 y:52.949996948242 z:31.461315155029",
+        "position": "x:24.271844863892 y:53.001949310303 z:26.955341339111",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

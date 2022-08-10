@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/normal_chest"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "d89294c68a6662752a1db14199358d25",
+      "setting.json": "a322d3374a0044d99cc369a0f68e4071",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

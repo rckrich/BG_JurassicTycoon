@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/deadbush"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/deadbush"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/deadbush"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/deadbush"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/deadbush"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/deadbush"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "e96f5713b8ffe0776243c77b47f4f783",
+      "setting.json": "9a46ab9b8a756062b835950177136489",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

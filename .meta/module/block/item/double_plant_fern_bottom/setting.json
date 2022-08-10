@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_fern_bottom"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "97762dde0828d3a12aa8c609823ace6f",
+      "setting.json": "88595298b7b40855de86e74e35b323da",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

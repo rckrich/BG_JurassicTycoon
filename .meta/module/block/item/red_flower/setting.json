@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/red_flower"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/red_flower"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/red_flower"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/red_flower"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/red_flower"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/red_flower"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "6fd5d0f6fecd3746ce4725b8b9657894",
+      "setting.json": "00b7fd9e5bcd10df9caa3b846e441a50",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

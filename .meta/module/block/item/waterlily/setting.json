@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/waterlily"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/waterlily"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/waterlily"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/waterlily"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/waterlily"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/waterlily"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9aaa316fb5f5a6a310ef545f64b90189",
+      "setting.json": "15da66c67fed052f5370f1f33842ade9",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

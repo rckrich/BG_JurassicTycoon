@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/jungle_wood_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "1310b8046361a1f77aff35ab38d473b9",
+      "setting.json": "6e4e1cea06b785212c579abc3fd5596c",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

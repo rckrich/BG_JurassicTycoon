@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_rose_top"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c0bbd46d10f46c16abfa5570f217151a",
+      "setting.json": "74aa2df4294634b6e51b0454b8e72a08",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

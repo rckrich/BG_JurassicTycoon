@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/blue_orchid"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b6427537f2ad197dbc146ba4aa364314",
+      "setting.json": "164d4cecbc3f771f10f044397203a945",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

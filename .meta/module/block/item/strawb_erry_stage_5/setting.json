@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/strawb_erry_stage_5"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "a04561dbd220c5af956befceddff66b8",
+      "setting.json": "5b943bfe34f87b9ab3d34f220cff831d",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

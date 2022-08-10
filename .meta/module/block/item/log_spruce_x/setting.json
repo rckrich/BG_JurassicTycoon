@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/log_spruce_x"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "40eefe2c00912d533d78b68ccbbaeae1",
+      "setting.json": "611c45f1664cbfd9ac1ecd412c98fe92",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/yellow_flower"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "19bc494482f2bac1583e4034930cfb53",
+      "setting.json": "fc6654dcdac878ec43b964dbaae78b2e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -30,11 +30,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/spruce_stairs02"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "20c0fba91373a4f9dad4f06835b85346",
+      "setting.json": "6aa3769062128a21ff13cf8b9fb8faa4",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/oxeye_daisy"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "62a30d8cda6a36938b48cdb5568e56a0",
+      "setting.json": "0c04857860f4473249d8d58dcb1f96d6",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -1,5 +1,5 @@
 {
-  "automatch": false,
+  "automatch": true,
   "bagCap": 9,
   "cameraCfg": {
     "canSwitchView": true,
@@ -17,6 +17,12 @@
         "enable": true,
         "enableCollisionDetect": true,
         "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
         "viewFovAngle": 75
       },
       {
@@ -24,6 +30,12 @@
         "enable": false,
         "enableCollisionDetect": true,
         "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
         "viewFovAngle": 75
       },
       {
@@ -32,6 +44,12 @@
         "enableCollisionDetect": true,
         "lockBodyRotation": false,
         "lockSlideScreen": false,
+        "offset": {
+          "__OBJ_TYPE": "Vector3",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
         "viewFovAngle": 75
       },
       {
@@ -51,15 +69,16 @@
   },
   "canJoinMidway": false,
   "defaultMap": "map001",
-  "defaultQualityLevel": 0,
+  "defaultQualityLevel": 2,
   "dragControlConfig": {
     "useDragControl": true
   },
   "editorFovAngle": 65,
+  "enableNewLighting": false,
   "engineDefUIEnable": {
     "actionControl": true,
     "actionControlMode": "flexibleDragControl",
-	"appMainRole": true,
+    "appMainRole": true,
     "chat": true,
     "playerinfo": true,
     "shortcutBar": true,
@@ -103,15 +122,15 @@
     },
     "useGroup": "_imagesets_"
   },
-  "maxPlayers": 6,
+  "maxPlayers": 16,
   "minPlayers": 1,
   "moveStateConfig": {
     "isShow": false
   },
-  "needSave": false,
+  "needSave": true,
   "noLoadHp": true,
   "notReadUserSettingCfgAtEditor": true,
-  "nowTime": 18001.666666667,
+  "nowTime": 1666.6666666667,
   "oneDayTime": 600.0,
   "personalSettingUI": {
     "controlMode": true,
@@ -213,8 +232,393 @@
       "z": 34
     }
   ],
-  "team": [],
-  "teammateHurt": false,
+  "team": [
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 1,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_1.png",
+      "initPos": {
+        "map": "map001",
+        "x": 31,
+        "y": 53,
+        "z": 39
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team1",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 31,
+          "y": 53,
+          "z": 39
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 2,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_2.png",
+      "initPos": {
+        "map": "map001",
+        "x": 28,
+        "y": 53,
+        "z": 39
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team2",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 28,
+          "y": 53,
+          "z": 39
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 3,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_3.png",
+      "initPos": {
+        "map": "map001",
+        "x": 25,
+        "y": 53,
+        "z": 39
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team3",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 25,
+          "y": 53,
+          "z": 39
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 4,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_4.png",
+      "initPos": {
+        "map": "map001",
+        "x": 22,
+        "y": 53,
+        "z": 39
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team4",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 22,
+          "y": 53,
+          "z": 39
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 5,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_5.png",
+      "initPos": {
+        "map": "map001",
+        "x": 15,
+        "y": 53,
+        "z": 33
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team5",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 15,
+          "y": 53,
+          "z": 33
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 6,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_6.png",
+      "initPos": {
+        "map": "map001",
+        "x": 15,
+        "y": 53,
+        "z": 30
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team6",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 15,
+          "y": 53,
+          "z": 30
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 7,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_7.png",
+      "initPos": {
+        "map": "map001",
+        "x": 15,
+        "y": 53,
+        "z": 27
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team7",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 15,
+          "y": 53,
+          "z": 27
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 8,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_8.png",
+      "initPos": {
+        "map": "map001",
+        "x": 15,
+        "y": 53,
+        "z": 24
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team8",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 15,
+          "y": 53,
+          "z": 24
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 9,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_9.png",
+      "initPos": {
+        "map": "map001",
+        "x": 22,
+        "y": 53,
+        "z": 21
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team9",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 22,
+          "y": 53,
+          "z": 21
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 10,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_10.png",
+      "initPos": {
+        "map": "map001",
+        "x": 25,
+        "y": 53,
+        "z": 21
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team10",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 25,
+          "y": 53,
+          "z": 21
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 11,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_1.png",
+      "initPos": {
+        "map": "map001",
+        "x": 28,
+        "y": 53,
+        "z": 21
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team11",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 28,
+          "y": 53,
+          "z": 21
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 12,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_2.png",
+      "initPos": {
+        "map": "map001",
+        "x": 31,
+        "y": 53,
+        "z": 21
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team12",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 31,
+          "y": 53,
+          "z": 21
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 13,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_3.png",
+      "initPos": {
+        "map": "map001",
+        "x": 41,
+        "y": 53,
+        "z": 25
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team13",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 41,
+          "y": 53,
+          "z": 25
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 14,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_4.png",
+      "initPos": {
+        "map": "map001",
+        "x": 41,
+        "y": 53,
+        "z": 28
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team14",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 41,
+          "y": 53,
+          "z": 28
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 15,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_5.png",
+      "initPos": {
+        "map": "map001",
+        "x": 41,
+        "y": 53,
+        "z": 31
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team15",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 41,
+          "y": 53,
+          "z": 31
+        }
+      ]
+    },
+    {
+      "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
+      "id": 16,
+      "ignorePlayerSkin": true,
+      "image": "asset/Texture/Team/flag/flag_6.png",
+      "initPos": {
+        "map": "map001",
+        "x": 41,
+        "y": 53,
+        "z": 34
+      },
+      "mainTeamImageBg": "",
+      "mainTeamImageFrame": "flag_textures/flag_frame",
+      "memberLimit": 1,
+      "name": "team16",
+      "startPos": [
+        {
+          "map": "map001",
+          "x": 41,
+          "y": 53,
+          "z": 34
+        }
+      ]
+    }
+  ],
+  "teammateHurt": true,
   "topTeamInfo": {
     "teamDieIcon": "flag_textures/flag_die",
     "teamDieIconArea": [
@@ -261,7 +665,8 @@
   "vars": {
     "__OBJ_TYPE": [],
     "entity": [],
-    "global": []
+    "global": [],
+    "ui": []
   },
   "waitAtInitPos": true,
   "waitGoTime": 100,

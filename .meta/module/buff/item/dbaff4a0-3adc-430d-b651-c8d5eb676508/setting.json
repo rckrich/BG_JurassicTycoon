@@ -1,0 +1,15 @@
+{
+  "data": {
+    "damage": 2,
+    "name": {
+      "value": "buff_dbaff4a0-3adc-430d-b651-c8d5eb676508"
+    },
+    "needSave": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "aa9152df7a2c4f7979a89c8a4dc120c1"
+    },
+    "VERSION": "0.22"
+  }
+}

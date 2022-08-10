@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/brown_mushroom"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "6660cb979fa070e45b1120cd17b3ce17",
+      "setting.json": "cf9568f963707b674b5136b3eb79108b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

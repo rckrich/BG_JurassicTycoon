@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_sunflower_back"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ee0de4d045898d3942204afb52d41680",
+      "setting.json": "184fbd6321df6434a475c4fcaa1ddc7b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

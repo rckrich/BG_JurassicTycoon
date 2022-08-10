@@ -17,11 +17,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/vine_1"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/vine_1"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/vine_1"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/vine_1"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/vine_1"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/vine_1"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "24b19083a8574d55efa88c85c8d8a8e8",
+      "setting.json": "ea4b3bdc98822eee196c2c0962d5be09",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

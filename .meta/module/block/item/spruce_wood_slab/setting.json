@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/spruce_wood_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "58da8952b63e9c3fbb951865d7ed9874",
+      "setting.json": "ac1672f59473af17314c31538bc19c1e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

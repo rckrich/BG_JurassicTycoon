@@ -4,6 +4,8 @@
   ],
   "_serverScript": [],
   "aiFixSpeedRate": 2,
+  "attackNpc": false,
+  "autoAttack": false,
   "autoMove": false,
   "autoRotateColliderBox": true,
   "avoidCliff": true,
@@ -22,11 +24,13 @@
   "canPickOnDie": false,
   "canTurnHead": true,
   "castRealShadowAtFirstPRV": false,
+  "chaseDistance": 10,
+  "chaseInterval": 10,
   "checkGroundWhenCollisionMargin": true,
   "checkPartTouchEvent": true,
   "clickDistance": 4,
   "collider": {
-    "height": 1.5,
+    "height": 1.8,
     "offset": {
       "x": 0.0,
       "y": 0.0,
@@ -40,8 +44,8 @@
     },
     "type": "Capsule"
   },
-  "collision": false,
-  "damage": 0,
+  "collision": true,
+  "damage": 5,
   "damageViewBobbing": [
     {
       "count": 2,
@@ -80,19 +84,25 @@
   "gravity": 0.08,
   "headPic": "",
   "hideHolder": false,
-  "hideHp": 1,
+  "hideHp": 0,
   "hideName": false,
   "homeSize": 10,
   "hpBarColor": 4294967551.0,
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
   "hurtResistantTime": 0,
+  "idleProb": 0,
+  "idleTime": [
+    10,
+    30
+  ],
   "ignorePlayerSkin": false,
   "isAIGoHomePos": true,
   "isPlayer": true,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
   "maxHp": 20,
+  "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "modelType": "System",
   "moveAcc": 0.2,
@@ -100,12 +110,17 @@
   "moveSpeed": 0.2,
   "name": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d",
   "needCheckTouch": true,
+  "patrolDistance": 5,
   "randomPlayDeadActions": [
     "die_front"
   ],
   "reachDistance": 6.5,
+  "reviveTime": 200,
   "setFollowWhenCreate": true,
-  "skillInfos": [],
+  "skillInfos": [
+    "myplugin/23fc80d8-dffc-4f83-9a0d-c4d39721a015",
+    "myplugin/4b06af18-1fbc-4729-8709-9e8d09f366e0"
+  ],
   "stepHeight": 0.6,
   "swimSpeed": 0.2,
   "textHeight": 2.3,

@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/potatoes_stage_3"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "a7665b1f9cbb7db340c65f91b532ff05",
+      "setting.json": "e06f9ac6bf827864e6fa209926f95728",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

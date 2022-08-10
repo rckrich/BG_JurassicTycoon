@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_grass_bottom"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f7f03646e482005119b9a0594dabbc7e",
+      "setting.json": "ba5af0a5e652b7c52ba3961c29f3923e",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -18,11 +18,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/double_plant_syringa_bottom"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "5378cf56ef2a45fa676938bbb0017262",
+      "setting.json": "c2c2ae920383623687de4f3f73b06a75",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/tallgrass"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "df8a427f34a0c6342eef3202cbee7721",
+      "setting.json": "1fb4677462720bd85f0dcd32369a5c98",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

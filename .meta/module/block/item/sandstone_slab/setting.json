@@ -24,11 +24,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/sandstone_slab"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b84d5651b5ed3254ddf92fe5792a2340",
+      "setting.json": "ffb8c946c531b2df8a1f4ca3ddd1dc12",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

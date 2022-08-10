@@ -26,11 +26,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/fern"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/fern"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/fern"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/fern"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/fern"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/fern"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "0c3c251104236eec94bf4fef1f471e0e",
+      "setting.json": "dec40c7bdf7b942a655ab1d3d8bc3465",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

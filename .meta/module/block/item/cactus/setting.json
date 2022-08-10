@@ -29,11 +29,31 @@
       "volume": {
         "value": 0
       }
+    },
+    "textures": {
+      "back": {
+        "asset": "plugin/myplugin/block/cactus"
+      },
+      "down": {
+        "asset": "plugin/myplugin/block/cactus"
+      },
+      "front": {
+        "asset": "plugin/myplugin/block/cactus"
+      },
+      "left": {
+        "asset": "plugin/myplugin/block/cactus"
+      },
+      "right": {
+        "asset": "plugin/myplugin/block/cactus"
+      },
+      "up": {
+        "asset": "plugin/myplugin/block/cactus"
+      }
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9241f0d02cad1139075119fcea7216da",
+      "setting.json": "ef8e23ec050b2cd559adf32fc9c59a9b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"
