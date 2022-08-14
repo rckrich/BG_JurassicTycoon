@@ -19,6 +19,23 @@
         "selectable": "true",
         "useAnchor": "false"
       }
+    },
+    {
+      "class": "DropItem",
+      "config": "myplugin/5a878cec-9a7a-4885-87d0-6e3af2c4fd42",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "fixRotation": false,
+        "id": "8758865251910680577",
+        "name": "Dropper",
+        "needSync": "true",
+        "position": "x:20.417001724243 y:53.000003814697 z:29.943000793457",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
     }
   ],
   "skyBox": [

@@ -1,0 +1,17 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "icon": "@asset/Texture/Block/concrete_powder_blue.png",
+  "itemname": "item_82570a45-8e08-43f6-92da-334a44437279",
+  "mesh": "asset/Mesh/Actor_mesh/bed_armor_helmet_blue.mesh",
+  "needSave": false,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

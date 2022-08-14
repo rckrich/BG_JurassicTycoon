@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset autoScaled="vertical" version="2"  name="new_gui_material" imagefile="new_gui_material.png" nativeHorzRes="1024" nativeVertRes="1024">
+	<Image name="action_icon_pre" width="52" height="45" xPos="2" yPos="95"/>
+	<Image name="action_icon_nor" width="52" height="45" xPos="2" yPos="142"/>
+	<Image name="chat_icon_pre" width="52" height="45" xPos="56" yPos="95"/>
+	<Image name="chat_icon_nor" width="52" height="45" xPos="56" yPos="142"/>
+	<Image name="menu_icon_pre" width="52" height="45" xPos="110" yPos="95"/>
+	<Image name="menu_icon_nor" width="52" height="45" xPos="110" yPos="142"/>
+	<Image name="player_list_bg" width="15" height="15" xPos="103" yPos="2" type="NineGridImage" stretch="7 7 7 7"/>
+	<Image name="player_munber_bg" width="7" height="9" xPos="142" yPos="2"/>
+	<Image name="action_arrow" width="25" height="15" xPos="76" yPos="17"/>
+	<Image name="team_yellow" width="31" height="31" xPos="2" yPos="55"/>
+	<Image name="team_green" width="31" height="31" xPos="35" yPos="55"/>
+	<Image name="team_blue" width="31" height="31" xPos="68" yPos="55"/>
+	<Image name="team_red" width="31" height="31" xPos="101" yPos="55"/>
+	<Image name="team_purple" width="31" height="31" xPos="365" yPos="135"/>
+	<Image name="team_orange" width="31" height="31" xPos="400" yPos="135"/>
+	<Image name="zhonganxia" width="64" height="64" xPos="230" yPos="134"/>
+	<Image name="zhonganniu" width="64" height="64" xPos="296" yPos="134"/>
+	<Image name="shang" width="64" height="64" xPos="164" yPos="68"/>
+	<Image name="xia" width="64" height="64" xPos="230" yPos="68"/>
+	<Image name="zuo" width="64" height="64" xPos="362" yPos="68"/>
+	<Image name="you" width="64" height="64" xPos="296" yPos="68"/>
+	<Image name="qifei" width="64" height="64" xPos="164" yPos="134"/>
+	<Image name="luodi" width="64" height="64" xPos="776" yPos="105"/>
+	<Image name="zuoxieshang" width="56" height="56" xPos="842" yPos="163"/>
+	<Image name="youxieshang" width="56" height="56" xPos="900" yPos="163"/>
+	<Image name="shenggao" width="56" height="56" xPos="842" yPos="105"/>
+	<Image name="jiangdi" width="56" height="56" xPos="900" yPos="105"/>
+	<Image name="diaochucaidananniu" width="63" height="63" xPos="274" yPos="2"/>
+	<Image name="diaochuanxia" width="63" height="63" xPos="339" yPos="2"/>
+	<Image name="wupinkuang_shixin" width="13" height="13" xPos="74" yPos="2"/>
+	<Image name="wupinkuang_shixin_xuanzhong" width="16" height="16" xPos="56" yPos="2"/>
+	<Image name="wupinkuang" width="20" height="20" xPos="176" yPos="34"/>
+	<Image name="wupinkuang_xuanzhong" width="20" height="20" xPos="198" yPos="34"/>
+	<Image name="wupinkuang_jinshu" width="13" height="13" xPos="74" yPos="2"/>
+	<Image name="itemTableBg" width="674" height="81" xPos="2" yPos="514"/>
+	<Image name="playerExpBg" width="7" height="10" xPos="168" yPos="1" type="NineGridImage" stretch="3 3 3 3"/>
+	<Image name="playerExpValue" width="7" height="10" xPos="160" yPos="1" type="NineGridImage" stretch="3 3 3 3"/>
+	<Image name="page_title_bg" width="208" height="65" xPos="195" yPos="825"/>
+	<Image name="page_title_centre_bg" width="102" height="51" xPos="428" yPos="45"/>
+	<Image name="page_content_big_bg" width="16" height="571" xPos="961" yPos="3"/>
+	<Image name="page_content_small_bg" width="16" height="501" xPos="978" yPos="73"/>
+	<Image name="page_btn_close" width="51" height="53" xPos="220" yPos="2"/>
+	<Image name="page_tab_nor" width="17" height="21" xPos="776" yPos="171"/>
+	<Image name="page_tab_pre" width="17" height="21" xPos="794" yPos="171"/>
+	<Image name="armor_page_bg" width="33" height="508" xPos="925" yPos="220"/>
+	<Image name="armor_foot_bg" width="240" height="115" xPos="2" yPos="597"/>
+	<Image name="armor_item_stack_bg" width="13" height="13" xPos="88" yPos="2"/>
+	<Image name="armor_radio_nor" width="19" height="19" xPos="133" yPos="34"/>
+	<Image name="armor_radio_pre" width="19" height="19" xPos="112" yPos="34"/>
+	<Image name="armor_btn_nor" width="19" height="19" xPos="69" yPos="34"/>
+	<Image name="armor_btn_pre" width="19" height="19" xPos="46" yPos="34"  type="NineGridImage" stretch="9 9 9 9"/>
+	<Image name="summary_line" width="2" height="475" xPos="940" yPos="235"/>
+	<Image name="brown_icon" width="54" height="54" xPos="605" yPos="266"/>
+	<Image name="blue_icon" width="54" height="54" xPos="661" yPos="266"/>
+	<Image name="yellow_icon" width="54" height="54" xPos="717" yPos="266"/>
+	<Image name="red_icon" width="54" height="54" xPos="773" yPos="266"/>
+	<Image name="number_one" width="16" height="31" xPos="605" yPos="322"/>
+	<Image name="number_two" width="21" height="31" xPos="623" yPos="322"/>
+	<Image name="number_three" width="21" height="31" xPos="646" yPos="322"/>
+	<Image name="number_four" width="21" height="31" xPos="669" yPos="322"/>
+	<Image name="number_five" width="21" height="31" xPos="692" yPos="322"/>
+	<Image name="number_six" width="21" height="31" xPos="715" yPos="322"/>
+	<Image name="number_seven" width="21" height="31" xPos="738" yPos="322"/>
+	<Image name="number_eight" width="21" height="31" xPos="761" yPos="322"/>
+	<Image name="number_nine" width="21" height="31" xPos="784" yPos="322"/>
+	<Image name="number_zero" width="22" height="31" xPos="807" yPos="322"/>
+	<Image name="green_btn_nor" width="19" height="19" xPos="2" yPos="34" type="NineGridImage" stretch="9 9 9 9"/>
+	<Image name="green_btn_pre" width="19" height="19" xPos="24" yPos="34" type="NineGridImage" stretch="9 9 9 9"/>
+	<Image name="blue_btn_nor" width="19" height="19" xPos="112" yPos="34" type="NineGridImage" stretch="9 9 9 9"/>
+	<Image name="blue_btn_pre" width="19" height="19" xPos="133" yPos="34" type="NineGridImage" stretch="9 9 9 9"/>
+	<Image name="final_summary_bg" width="25" height="27" xPos="29" yPos="2" type="NineGridImage" stretch="13 13 13 13"/>
+	<Image name="summary_reward_icon" width="8" height="9" xPos="56" yPos="19"/>
+	<Image name="summary_divide_line" width="2" height="2" xPos="121" yPos="26"/>
+	<Image name="chat_input_bg" width="7" height="7" xPos="130" yPos="27" type="NineGridImage" stretch="20 20 20 20"/>
+	<Image name="chat_send_nor" width="52" height="45" xPos="532" yPos="45"/>
+	<Image name="chat_send_pre" width="52" height="45" xPos="586" yPos="45"/>
+	<Image name="menu_bg" width="29" height="29" xPos="683" yPos="74" type="NineGridImage" stretch="14 14 14 14"/>
+	<Image name="menu_radio_bg" width="13" height="13" xPos="176" yPos="1" type="NineGridImage" stretch="6 6 6 6"/>
+	<Image name="menu_radio_nor" width="33" height="37" xPos="811" yPos="226" type="NineGridImage" stretch="16 16 16 20"/>
+	<Image name="menu_radio_pre" width="33" height="37" xPos="776" yPos="226" type="NineGridImage" stretch="16 16 16 20"/>
+	<Image name="menu_radio_arrow" width="20" height="37" xPos="846" yPos="226"/>
+	<Image name="menu_setting_item_bg" width="235" height="42" xPos="2" yPos="957" type="NineGridImage" stretch="232 39 3 3"/>
+	<Image name="menu_setting_progress_nor" width="11" height="20" xPos="190" yPos="1" type="NineGridImage" stretch="6 6 6 6"/>
+	<Image name="menu_setting_progress_pre" width="11" height="20" xPos="202" yPos="1" type="NineGridImage" stretch="6 6 6 6"/>
+	<Image name="menu_setting_progress_btn" width="38" height="38" xPos="830" yPos="266" type="NineGridImage" stretch="6 6 6 6"/>
+	<Image name="menu_setting_progress_btn_keyBtn" width="38" height="38" xPos="830" yPos="266" type="NineGridImage" stretch="8 8 10 10"/>
+	<Image name="menu_setting_switch_open" width="89" height="38" xPos="727" yPos="354"/>
+	<Image name="menu_setting_switch_close" width="89" height="38" xPos="727" yPos="394"/>
+	<Image name="menu_player_item_line" width="2" height="4" xPos="125" yPos="26" type="NineGridImage" stretch="1 0 1 0"/>
+	<Image name="menu_setting_red_dot_icon" width="16" height="16" xPos="640" yPos="597"/>
+	<Image name="menu_player_item_friend_icon" width="42" height="42" xPos="658" yPos="597"/>
+	<Image name="menu_player_item_add_friend_icon" width="70" height="54" xPos="702" yPos="597"/>
+	<Image name="compound_arrow_nor" width="69" height="59" xPos="2" yPos="453"/>
+	<Image name="compound_arrow_pre" width="69" height="59" xPos="73" yPos="453"/>
+	<Image name="compound_result_bg" width="181" height="185" xPos="2" yPos="266"/>
+	<Image name="compound_result_item_bg" width="20" height="20" xPos="90" yPos="34"/>
+	<Image name="btn_green_nor" width="20" height="20" xPos="2" yPos="34"/>
+	<Image name="btn_green_pre" width="20" height="20" xPos="24" yPos="34"/>
+	<Image name="compound_details_bg" width="25" height="27" xPos="2" yPos="2"/>
+	<Image name="self_team_bg" width="22" height="50" xPos="830" yPos="306"/>
+	<Image name="watch_battle_btn_bg" width="46" height="64" xPos="870" yPos="266"/>
+	<Image name="bedwar_no_bed" width="48" height="46" xPos="867" yPos="342"/>
+	<Image name="bedwar_green_bed" width="43" height="31" xPos="869" yPos="399"/>
+	<Image name="bedwar_yellow_bed" width="43" height="31" xPos="869" yPos="447"/>
+	<Image name="bedwar_red_bed" width="43" height="31" xPos="869" yPos="495"/>
+	<Image name="bedwar_blue_bed" width="43" height="31" xPos="869" yPos="545"/>
+	<Image name="summary_point_arrow" width="15" height="25" xPos="818" yPos="359"/>
+	<Image name="summary_point_bg" width="16" height="16" xPos="835" yPos="359"/>
+	<Image name="armor_type_helmet" width="54" height="54" xPos="441" yPos="608"/>
+	<Image name="armor_type_chestplate" width="70" height="70" xPos="435" yPos="671"/>
+	<Image name="armor_type_leggings" width="60" height="60" xPos="443" yPos="750"/>
+	<Image name="armor_type_boots" width="54" height="54" xPos="510" yPos="612"/>
+	<Image name="armor_type_dagger" width="54" height="53" xPos="578" yPos="607"/>
+	<Image name="armor_type_lock" width="54" height="53" xPos="510" yPos="756"/>
+	<Image name="summary_slider_bg" width="11" height="20" xPos="190" yPos="1" type="NineGridImage" stretch="4 5 4 5"/>
+	<Image name="summary_slider_fg" width="11" height="20" xPos="201" yPos="1" type="NineGridImage" stretch="4 5 4 5"/>
+	<Image name="summary_tip_bg" width="38" height="38" xPos="830" yPos="266"/>
+	<Image name="rank_bg" width="17" height="17" xPos="834" yPos="376"/>
+	<Image name="loadingBlock_bg" width="1" height="1" xPos="0" yPos="0"/>
+	<Image name="one_perspec_bg" width="52" height="45" xPos="195" yPos="892"/>
+	<Image name="three_perspec_back_bg" width="52" height="45" xPos="301" yPos="892"/>
+	<Image name="three_perspec_face_bg" width="52" height="45" xPos="248" yPos="892"/>
+	<Image name="pole_bg" width="231" height="231" xPos="791" yPos="792"/>
+	<Image name="pole_center" width="231" height="231" xPos="557" yPos="792"/>
+	<Image name="sneak" width="60" height="60" xPos="566" yPos="659"/>
+	<Image name="run" width="60" height="60" xPos="628" yPos="659"/>
+	<Image name="sprint" width="60" height="60" xPos="689" yPos="659"/>
+	<Image name="progress_nor" width="13" height="12" xPos="147" yPos="13"/>
+	<Image name="progress_pre" width="13" height="12" xPos="161" yPos="13"/>
+	<Image name="icon_attack" width="28" height="28" xPos="791" yPos="1"/>
+	<Image name="bg_defense_progress" width="8" height="18" xPos="758" yPos="462"/>
+	<Image name="bg_attack_progress" width="8" height="18" xPos="758" yPos="480"/>
+	<Image name="btn_add_diamond" width="47" height="46" xPos="823" yPos="1"/>
+	<Image name="bg_app_money" width="36" height="36" xPos="874" yPos="1"/>
+</Imageset>

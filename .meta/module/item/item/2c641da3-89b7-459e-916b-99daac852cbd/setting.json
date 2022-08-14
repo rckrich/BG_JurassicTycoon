@@ -1,0 +1,27 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Texture/Block/ice_packed.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "useBuff": "myplugin/12dcd4c5-f5de-460a-9c1d-fe7e2881bc68"
+      },
+      "type": "Use"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Actor_mesh/01_shoes_r_widget.mesh"
+    },
+    "name": {
+      "value": "item_2c641da3-89b7-459e-916b-99daac852cbd"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ca12b24b942cf79f8437da51bfcaf554",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

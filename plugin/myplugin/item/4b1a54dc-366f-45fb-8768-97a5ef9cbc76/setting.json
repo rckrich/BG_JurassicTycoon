@@ -1,0 +1,17 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "icon": "@asset/Texture/Block/hardened_clay_stained_orange.png",
+  "itemname": "item_4b1a54dc-366f-45fb-8768-97a5ef9cbc76",
+  "mesh": "asset/Mesh/Actor_mesh/02_hair_boy.mesh",
+  "needSave": true,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

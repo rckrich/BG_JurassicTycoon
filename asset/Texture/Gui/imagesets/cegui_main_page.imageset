@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset autoScaled="vertical" imagefile="cegui_main_page.png" name="cegui_main_page" nativeHorzRes="512" nativeVertRes="1024" version="2">
+	<Image height="9" name="progress_bar_lv" width="146" xPos="156" yPos="19" type="NineGridImage" stretch="2 2 2 2"/>
+	<Image height="72" name="skill_bg" width="72" xPos="294" yPos="326"/>
+	<Image height="55" name="composite_icon" width="56" xPos="376" yPos="188"/>
+	<Image height="52" name="char_bg" width="121" xPos="0" yPos="188"/>
+	<Image height="63" name="bag" width="63" xPos="159" yPos="253"/>
+	<Image height="45" name="switch_angle_back" width="52" xPos="276" yPos="132"/>
+	<Image height="15" name="qiepian_1" width="15" xPos="360" yPos="19"/>
+	<Image height="14" name="qiepian_2" width="14" xPos="312" yPos="19" type="NineGridImage" stretch="4 4 4 4"/>
+	<Image height="33" name="gold_icon" width="33" xPos="0" yPos="85"/>
+	<Image height="52" name="shop_icon" width="65" xPos="131" yPos="188"/>
+	<Image height="66" name="btn_tab_normal" width="137" xPos="0" yPos="326"/>
+	<Image height="2" name="char_separate" width="324" xPos="0" yPos="0"/>
+	<Image height="45" name="switch_angle_third" width="52" xPos="400" yPos="132"/>
+	<Image height="37" name="title" width="227" xPos="171" yPos="85"/>
+	<Image height="45" name="edit_icon" width="52" xPos="214" yPos="132"/>
+	<Image height="45" name="switch_angle_front" width="52" xPos="338" yPos="132"/>
+	<Image height="9" name="progress_bar_bg" width="146" xPos="334" yPos="0" width="146" height="9" xPos="0" yPos="2" type="NineGridImage" stretch="2 2 2 2"/>
+	<Image height="20" name="target_text_bg" width="190" xPos="0" yPos="44"/>
+	<Image height="42" name="gold_count_bg" width="142" xPos="0" yPos="132"/>
+	<Image height="24" name="level_icon" width="25" xPos="265" yPos="44"/>
+	<Image height="92" name="player_head_frame" width="92" xPos="202" yPos="416" type="NineGridImage" stretch="10 10 10 10"/>
+	<Image height="46" name="buy_icon" width="47" xPos="462" yPos="132"/>
+	<Image height="45" name="chat_icon" width="52" xPos="152" yPos="132"/>
+	<Image height="114" name="player_head_bg" width="104" xPos="304" yPos="416"/>
+	<Image height="63" name="bag_frame" width="63" xPos="232" yPos="253"/>
+	<Image height="24" name="hp_icon" width="23" xPos="232" yPos="44"/>
+	<Image height="22" name="target_icon" width="22" xPos="200" yPos="44"/>
+	<Image height="61" name="welfare_icon" width="83" xPos="66" yPos="253"/>
+	<Image height="31" name="player_level_bg" width="211" xPos="300" yPos="44"/>
+	<Image height="14" name="qiepian_3" width="14" xPos="336" yPos="19" type="NineGridImage" stretch="4 4 4 4"/>
+	<Image height="66" name="btn_tab_pushed" width="137" xPos="147" yPos="326"/>
+	<Image height="92" name="monster_prop_bg" width="92" xPos="100" yPos="416"/>
+	<Image height="37" name="open_chat_icon" width="37" xPos="124" yPos="85"/>
+	<Image height="37" name="close_chat_icon" width="37" xPos="77" yPos="85"/>
+	<Image height="63" name="bag_select_frame" width="63" xPos="305" yPos="253"/>
+	<Image height="90" name="map_bg" width="90" xPos="0" yPos="416"/>
+	<Image height="9" name="progress_bar_hp" width="146" xPos="0" yPos="19"  type="NineGridImage" stretch="2 2 2 2"/>
+	<Image height="55" name="task_icon" width="56" xPos="0" yPos="253"/>
+	<Image height="33" name="map_identifier" width="24" xPos="43" yPos="85"/>
+	<Image height="55" name="home_icon" width="56" xPos="442" yPos="188"/>
+	<Image height="80" name="monster_head_bg" width="80" xPos="376" yPos="326"/>
+	<Image height="53" name="top_toorbar_bg" width="160" xPos="206" yPos="188"/>
+</Imageset>

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/Texture/Block/concrete_powder_blue.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse",
+        "useBuff": "myplugin/6a49bba8-7553-43c9-84d3-6f46d98e2697"
+      },
+      "type": "Use"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Actor_mesh/bed_armor_helmet_blue.mesh"
+    },
+    "name": {
+      "value": "item_82570a45-8e08-43f6-92da-334a44437279"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_SpawnItemToWorld",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ItemEntry",
+                        "rawval": "myplugin/08348e7c-3851-457b-9fa2-94701d412181"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int",
+                        "rawval": 1
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos",
+                        "rawval": {
+                          "pos": {
+                            "x": 27.0,
+                            "y": 53.0,
+                            "z": 36.0
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_MapObj",
+                        "action": "461aaffb-da70-4ccc-b0ed-566f239c118a"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Time",
+                        "rawval": {
+                          "value": 19999980
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "rawval": true
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "a91fa2e0-aee3-4e17-a942-a3092e1f2918"
+              },
+              "pos": {
+                "x": 726,
+                "y": 129
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetPlayerMap",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "ab0661a1-3631-4054-b21b-e41770d58868"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "461aaffb-da70-4ccc-b0ed-566f239c118a"
+              },
+              "pos": {
+                "x": 1247,
+                "y": 280
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "ab0661a1-3631-4054-b21b-e41770d58868"
+              },
+              "pos": {
+                "x": 1539,
+                "y": 297
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "722c3d98-3d05-4690-946c-6483eeffe9e2"
+            },
+            "type": "Trigger_DropItemPicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "a91fa2e0-aee3-4e17-a942-a3092e1f2918"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "e973fe1c-275a-41e6-a612-876575584e17"
+            }
+          },
+          "type": "Trigger_DropItemPicked"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "acd076d997a418dd1663c5912177e23c",
+      "triggers.bts": "d9e080f3f768c398981102e8c1f2c5a2"
+    },
+    "VERSION": "0.22"
+  }
+}

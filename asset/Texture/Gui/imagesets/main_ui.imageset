@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset nativeHorzRes="404" autoScaled="vertical" imagefile="main_ui.png" nativeVertRes="1222" version="2" name="main_ui">
+    <Image width="271" height="271" name="control_bg_normal" xPos="0" yPos="0"/>
+    <Image width="271" height="271" name="control_bg_push" xPos="0" yPos="271"/>
+    <Image width="192" height="192" name="linghuo_bottom" xPos="0" yPos="542"/>
+    <Image width="184" height="184" name="icon_jump_act" xPos="0" yPos="734"/>
+    <Image width="184" height="184" name="icon_jump_nor" xPos="0" yPos="918"/>
+    <Image width="190" height="120" name="fly_up_normal" xPos="0" yPos="1102"/>
+    <Image width="190" height="120" name="fly_down_normal" xPos="184" yPos="734"/>
+    <Image width="190" height="120" name="fly_down_push" xPos="192" yPos="542"/>
+    <Image width="190" height="120" name="fly_up_push" xPos="184" yPos="854"/>
+    <Image width="61" height="61" name="control_5" xPos="192" yPos="662"/>
+    <Image width="54" height="54" name="linghuo_up" xPos="253" yPos="662"/>
+    <Image width="49" height="48" name="icon_invite_friends" xPos="307" yPos="662"/>
+    <Image width="48" height="48" name="icon_chat" xPos="356" yPos="662"/>
+    <Image width="48" height="48" name="icon_thrid_view" xPos="184" yPos="974"/>
+    <Image width="48" height="48" name="icon_setting" xPos="184" yPos="1022"/>
+    <Image width="48" height="48" name="icon_first_view" xPos="271" yPos="0"/>
+    <Image width="48" height="48" name="icon_friends" xPos="271" yPos="48"/>
+    <Image width="48" height="48" name="icon_bei_view" xPos="271" yPos="96"/>
+    <Image width="48" height="48" name="icon_backEdit" xPos="271" yPos="144"/>
+    <Image width="48" height="48" name="icon_uploadGame" xPos="271" yPos="192"/>
+    <Image width="48" height="48" name="icon_onlineGame" xPos="271" yPos="240"/>
+    <Image width="42" height="48" name="toolbar_Countdown" xPos="271" yPos="288"/>
+    <Image width="42" height="42" name="icon_diamond" xPos="271" yPos="336"/>
+    <Image width="32" height="48" name="icon_onlineRoom_bg" xPos="271" yPos="378" type="NineGridImage" stretch="8 0 8 0"/>
+    <Image width="38" height="36" name="icon_recharge_btn" xPos="271" yPos="426"/>
+    <Image width="20" height="36" name="icon_coin_bg" xPos="303" yPos="378" type="NineGridImage" stretch="8 0 8 0"/>
+    <Image width="28" height="29" name="playerInfoFoodSaturationHalf" xPos="184" yPos="1070"/>
+    <Image width="28" height="29" name="playerInfoFoodSaturationNull" xPos="271" yPos="462"/>
+    <Image width="28" height="29" name="playerInfoFoodSaturationFull" xPos="271" yPos="491"/>
+    <Image width="28" height="28" name="playerInfoAirFull" xPos="299" yPos="462"/>
+    <Image width="28" height="28" name="playerInfoAirRupture" xPos="309" yPos="414"/>
+    <Image width="24" height="28" name="playerInfoFullArmor" xPos="299" yPos="490"/>
+    <Image width="24" height="28" name="playerInfoHalfArmor" xPos="323" yPos="490"/>
+    <Image width="24" height="28" name="playerInfoNullArmor" xPos="327" yPos="442"/>
+    <Image width="26" height="25" name="playerInfoNullHP2" xPos="347" yPos="470"/>
+    <Image width="26" height="25" name="playerInfoFullHP" xPos="347" yPos="495"/>
+    <Image width="26" height="25" name="playerInfoHalfHP" xPos="313" yPos="288"/>
+    <Image width="26" height="25" name="playerInfoNullHP" xPos="313" yPos="313"/>
+    <Image width="21" height="21" name="control_4" xPos="271" yPos="520"/>
+    <Image width="19" height="19" name="control_3" xPos="327" yPos="470"/>
+    <Image width="16" height="18" name="player_info_healt_pre" xPos="253" yPos="716" type="NineGridImage" stretch="5 5 5 5"/>
+    <Image width="16" height="18" name="player_info_healt_nor" xPos="269" yPos="716" type="NineGridImage" stretch="5 5 5 5"/>
+    <Image width="16" height="18" name="player_info_food_staturation_pre" xPos="285" yPos="716" type="NineGridImage" stretch="5 5 5 5"/>
+    <Image width="16" height="18" name="player_info_food_staturation_nor" xPos="301" yPos="716" type="NineGridImage" stretch="5 5 5 5"/>
+    <Image width="16" height="16" name="control_2" xPos="309" yPos="442"/>w
+    <Image width="13" height="13" name="control_1" xPos="292" yPos="520"/>
+    <Image width="7" height="10" name="playerExpValue" xPos="192" yPos="723" type="NineGridImage" stretch="3 3 3 3"/>
+    <Image width="7" height="10" name="playerExpBg" xPos="199" yPos="723" type="NineGridImage" stretch="3 3 3 3"/>
+</Imageset>

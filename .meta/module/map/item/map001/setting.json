@@ -16,6 +16,17 @@
           "y": 53.001949310303,
           "z": 26.955341339111
         }
+      },
+      {
+        "__OBJ_TYPE": "Instance_DropItem",
+        "config": "myplugin/5a878cec-9a7a-4885-87d0-6e3af2c4fd42",
+        "id": "8758865251910680577",
+        "name": "Dropper",
+        "position": {
+          "x": 20.417001724243,
+          "y": 53.000003814697,
+          "z": 29.943000793457
+        }
       }
     ],
     "name": {
@@ -28,7 +39,7 @@
   "meta": {
     "EXPORT": {
       "DataSet": [],
-      "setting.json": "ce86bdbd4514bfa7041bf3fb37a30161"
+      "setting.json": "49d16338c10d87fbc12097c976c6b1a8"
     },
     "VERSION": "0.22"
   }

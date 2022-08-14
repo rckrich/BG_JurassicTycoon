@@ -3,6 +3,12 @@
     "actorName": {
       "asset": "asset/Actor/charactor/charactor_girl/character_girl.actor"
     },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
     "canClick": true,
     "name": {
       "value": "entity_0376e193-fab8-40c1-ab20-716c0268cd4e"
@@ -10,7 +16,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "af7a2ddf9551146e5899b8b772b720b9",
+      "setting.json": "1245156fdf543bc7155b89aed3d109ef",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "md5": "600730781010d9191320cd3ffe525764",
+    "path": "gui/layout_presets/shortcutBar.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Bottom"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Bottom"
+          },
+          "ClippedByParent": true,
+          "id": {
+            "value": "a2a145e5-a127-42f8-9fd0-b846fdbc267f"
+          },
+          "Image": {
+            "asset": "asset/Texture/Gui/imagesets/bottom_bar.imageset",
+            "imageset_key": "bar_bg",
+            "selector": "asset/Texture/Gui/imagesets/bottom_bar.imageset"
+          },
+          "lock": true,
+          "name": "BG",
+          "size": {
+            "UDim_X": {
+              "Offect": 0,
+              "Scale": 1
+            },
+            "UDim_Y": {
+              "Offect": 0,
+              "Scale": 1
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Right",
+            "VerticalAlignment": "Bottom"
+          },
+          "id": {
+            "value": "f45b2eb8-4608-4338-927f-5318c864fc46"
+          },
+          "Image": {
+            "asset": "asset/Texture/Gui/imagesets/bottom_bar.imageset",
+            "imageset_key": "bar_bag",
+            "selector": "asset/Texture/Gui/imagesets/bottom_bar.imageset"
+          },
+          "lock": true,
+          "name": "OpenBagItem",
+          "pos": {
+            "UDim_X": {
+              "Offect": -41
+            },
+            "UDim_Y": {
+              "Offect": -5
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 60
+            },
+            "UDim_Y": {
+              "Offect": 77
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "VerticalAlignment": "Bottom"
+          },
+          "id": {
+            "value": "9fc09523-45ac-4d0f-bef2-8259f2f10e82"
+          },
+          "lock": true,
+          "name": "ItemCellBase",
+          "pos": {
+            "UDim_X": {
+              "Offect": 49
+            },
+            "UDim_Y": {
+              "Offect": -12
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 0,
+              "Scale": 0.78
+            },
+            "UDim_Y": {
+              "Offect": 78
+            }
+          }
+        }
+      ],
+      "ClippedByParent": true,
+      "id": {
+        "value": "499148ad-cc05-4575-adcd-3a161ef0e043"
+      },
+      "lock": true,
+      "size": {
+        "UDim_X": {
+          "Offect": 746
+        },
+        "UDim_Y": {
+          "Offect": 53
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "600730781010d9191320cd3ffe525764",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

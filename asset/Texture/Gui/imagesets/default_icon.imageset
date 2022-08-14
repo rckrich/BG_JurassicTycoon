@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset autoScaled="vertical" imagefile="default_icon.png" name="default_icon" nativeHorzRes="128" nativeVertRes="128" version="2">
+	<Image height="110" name="header_icon" width="110" xPos="0" yPos="0"/>
+</Imageset>

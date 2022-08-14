@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset autoScaled="vertical" version="2"  name="pole" imagefile="pole.png" nativeHorzRes="1024" nativeVertRes="256">
+	<Image name="pole_bg" width="240" height="240" xPos="0" yPos="0"/>
+	<Image name="pole_center" width="240" height="240" xPos="240" yPos="0"/>
+	<Image name="pole_move" width="240" height="240" xPos="480" yPos="0"/>
+</Imageset>

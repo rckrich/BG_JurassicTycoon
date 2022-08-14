@@ -17,14 +17,13 @@
       "enable": true
     },
     "AI_home": {
-      "homeSize": 5
+      "homeSize": 5.0
     },
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
     "boundingVolume": {
-      "height": 1.5,
-      "height_c": 1.8,
+      "height": 1.8,
       "type": "Capsule"
     },
     "boundingVolumeEntityCfg": {
@@ -1031,7 +1030,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9bfbfcd7b0b509fc5a8a6a3be26740c1",
+      "setting.json": "d8c27624c8b788e2be4c557995600d6a",
       "triggers.bts": "492d7abccd74acb4859044107c950eee"
     },
     "VERSION": "0.22"

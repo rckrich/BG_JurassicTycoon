@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset autoScaled="vertical" version="2"  name="endless_main" imagefile="endless_main.png" nativeHorzRes="512" nativeVertRes="1024">
+	<Image name="add" width="54" height="54" xPos="369" yPos="0"/>
+	<Image name="challenge_times" width="34" height="37" xPos="271" yPos="0"/>
+	<Image name="close" width="32" height="32" xPos="239" yPos="0"/>
+	<Image name="control_1" width="13" height="13" xPos="30" yPos="0"/>
+	<Image name="control_2" width="16" height="16" xPos="43" yPos="0"/>
+	<Image name="control_3" width="19" height="19" xPos="59" yPos="0"/>
+	<Image name="control_4" width="21" height="21" xPos="78" yPos="0"/>
+	<Image name="control_5" width="61" height="61" xPos="0" yPos="55"/>
+	<Image name="control_bg_normal" width="271" height="271" xPos="0" yPos="593"/>
+	<Image name="control_bg_push" width="271" height="271" xPos="189" yPos="322"/>
+	<Image name="drungeon_bg" width="32" height="32" xPos="175" yPos="0"/>
+	<Image name="energy" width="22" height="22" xPos="121" yPos="0" type="NineGridImage" stretch="2 0 2 0"/>
+	<Image name="exit_team" width="32" height="32" xPos="143" yPos="0"/>
+	<Image name="exp" width="10" height="10" xPos="20" yPos="0"  type="NineGridImage" stretch="2 2 2 2"/>
+	<Image name="hit_normal" width="189" height="189" xPos="0" yPos="322"/>
+	<Image name="hit_push" width="189" height="189" xPos="307" yPos="133"/>
+	<Image name="hp" width="22" height="22" xPos="99" yPos="0"  type="NineGridImage" stretch="2 0 2 0"/>
+	<Image name="hp_bg" width="10" height="10" xPos="10" yPos="0" type="NineGridImage" stretch="2 2 2 2"/>
+	<Image name="icon" width="55" height="55" xPos="423" yPos="0"/>
+	<Image name="jump" width="100" height="100" xPos="207" yPos="133"/>
+	<Image name="level_star" width="32" height="32" xPos="207" yPos="0"/>
+	<Image name="skill_cast_bg" width="64" height="44" xPos="305" yPos="0"/>
+	<Image name="skill_cast_pro" width="10" height="10" xPos="0" yPos="0"/>
+	<Image name="skill_hole" width="86" height="86" xPos="0" yPos="133"/>
+	<Image name="SVIP" width="102" height="69" xPos="369" yPos="55"/>
+	<Image name="SVIP_border" width="80" height="72" xPos="133" yPos="55"/>
+	<Image name="team_member" width="78" height="78" xPos="213" yPos="55"/>
+	<Image name="transaction" width="78" height="78" xPos="291" yPos="55"/>
+	<Image name="VIP" width="121" height="62" xPos="86" yPos="133"/>
+	<Image name="VIP_border" width="72" height="70" xPos="61" yPos="55"/>
+</Imageset>

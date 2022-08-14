@@ -1,0 +1,75 @@
+{
+  "data": {
+    "md5": "e1ff6e0bfc5096871bdc331839ec22ee",
+    "path": "asset/Items_Layouts/ResourcesCollector_Test.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticText",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 20,
+          "HorzFormatting": "CentreAligned",
+          "id": {
+            "value": "42990837-9f61-4c61-b2d9-a043cc928450"
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.0517894426363
+            },
+            "UDim_Y": {
+              "Offect": -0.1238691180207
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 296.28272783756
+            },
+            "UDim_Y": {
+              "Offect": 57.221915245042
+            }
+          },
+          "Text": "Resources Collector",
+          "TextColours": {
+            "b": 198,
+            "g": 195,
+            "r": 200
+          },
+          "VertFormatting": "CentreAligned"
+        }
+      ],
+      "id": {
+        "value": "05bf011f-63a5-4b52-a8fd-3a23142b87f3"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -21.748726129531
+        },
+        "UDim_Y": {
+          "Offect": 28.277946233749
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 357.08383183923
+        },
+        "UDim_Y": {
+          "Offect": 79.167866818619
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "e1ff6e0bfc5096871bdc331839ec22ee",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

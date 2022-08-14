@@ -1,0 +1,13 @@
+DROPITEM_PICKED {
+	SpawnItemToWorld(
+		count = 1,
+		fullName = "myplugin/2c641da3-89b7-459e-916b-99daac852cbd",
+		map = GetPlayerMap(player = $obj1),
+		pos = {
+			x = 24.0,
+			y = 53.0,
+			z = 25.0
+		},
+		time = 19999980
+	)
+}

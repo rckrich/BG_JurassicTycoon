@@ -1,0 +1,17 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "icon": "@asset/Texture/Block/concrete_lime.png",
+  "itemname": "item_08348e7c-3851-457b-9fa2-94701d412181",
+  "mesh": "asset/Mesh/Actor_mesh/bed_armor_helmet_green.mesh",
+  "needSave": false,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}
