@@ -1,13 +1,19 @@
 {
-  "canAbandon": false,
+  "canAbandon": true,
   "candrop": false,
   "canEquipPlural": true,
   "canUse": false,
+  "container": {
+    "initCapacity": 0,
+    "loadName": "myplugin/5a878cec-9a7a-4885-87d0-6e3af2c4fd42",
+    "loadType": "Item",
+    "maxCapacity": 0
+  },
   "dropSpeed": 0.2,
   "icon": "@asset/Texture/Block/concrete_yellow.png",
   "itemname": "item_5a878cec-9a7a-4885-87d0-6e3af2c4fd42",
-  "mesh": "asset/Mesh/Actor_mesh/01_hair_girl.mesh",
-  "needSave": true,
+  "mesh": "asset/Mesh/Actor_mesh/02_hair_boy.mesh",
+  "needSave": false,
   "stack_count_max": 1,
   "syncGameData": {
     "currentCapacity": true,

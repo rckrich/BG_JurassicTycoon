@@ -1,6 +1,5 @@
 {
   "data": {
-    "canJoinMidway": false,
     "fixed_viewPos": {
       "pos": {
         "__OBJ_TYPE": "Vector3i"
@@ -32,6 +31,7 @@
     },
     "team": {
       "automatch": true,
+      "showTeamStatusBar": false,
       "team": [
         {
           "initPos": {
@@ -384,7 +384,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "40ef881b2429be87ffc9cf46979dc190",
+      "setting.json": "759c220a5c40fdfd5697b1814694909b",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""

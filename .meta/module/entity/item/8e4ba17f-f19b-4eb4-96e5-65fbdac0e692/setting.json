@@ -1,0 +1,17 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Yellow Egg With Crown/g2020_pet_egg_03.actor"
+    },
+    "name": {
+      "value": "entity_8e4ba17f-f19b-4eb4-96e5-65fbdac0e692"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4009d75a3768a8cf0637d58e04463097",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

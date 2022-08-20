@@ -17,7 +17,7 @@
       "enable": true
     },
     "AI_home": {
-      "homeSize": 5.0
+      "homeSize": 5
     },
     "AI_patrol": {
       "patrolMode": "randomPath"
@@ -40,7 +40,6 @@
       },
       "playDeadAction": "die_front"
     },
-    "hideHp": false,
     "isPlayer": true,
     "name": {
       "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
@@ -1030,7 +1029,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "d8c27624c8b788e2be4c557995600d6a",
+      "setting.json": "4b5804f5c3d777b6ebf3d25a096eacb9",
       "triggers.bts": "492d7abccd74acb4859044107c950eee"
     },
     "VERSION": "0.22"

@@ -1,13 +1,15 @@
 DROPITEM_PICKED {
-	SpawnItemToWorld(
-		count = 1,
-		fullName = "myplugin/4b1a54dc-366f-45fb-8768-97a5ef9cbc76",
+	CreateNpc(
+		cfgName = "myplugin/480fddb1-f273-4e02-a71b-7f51837ab644",
+		enableAI = false,
+		level = 0,
 		map = GetPlayerMap(player = $obj1),
+		name = "",
+		owner = $obj1,
 		pos = {
-			x = 33,
-			y = 53,
-			z = 30
-		},
-		time = 19999980
+			x = 19.0,
+			y = 53.3,
+			z = 28.0
+		}
 	)
 }

@@ -30,7 +30,7 @@
   "checkPartTouchEvent": true,
   "clickDistance": 4,
   "collider": {
-    "height": 1.8,
+    "height": 1.5,
     "offset": {
       "x": 0.0,
       "y": 0.0,
@@ -84,7 +84,7 @@
   "gravity": 0.08,
   "headPic": "",
   "hideHolder": false,
-  "hideHp": 0,
+  "hideHp": 1,
   "hideName": false,
   "homeSize": 10,
   "hpBarColor": 4294967551.0,

@@ -67,7 +67,7 @@
       }
     ]
   },
-  "canJoinMidway": false,
+  "canJoinMidway": true,
   "defaultMap": "map001",
   "defaultQualityLevel": 2,
   "dragControlConfig": {
@@ -86,7 +86,7 @@
   },
   "forcePickBlock": true,
   "hideCloud": false,
-  "hideTeamStatusBar": false,
+  "hideTeamStatusBar": true,
   "ignoreEmptyStartPos": false,
   "initPos": {
     "map": "map001",
@@ -130,7 +130,7 @@
   "needSave": true,
   "noLoadHp": true,
   "notReadUserSettingCfgAtEditor": true,
-  "nowTime": 1666.6666666667,
+  "nowTime": 10666.666666667,
   "oneDayTime": 600.0,
   "personalSettingUI": {
     "controlMode": true,
@@ -261,7 +261,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 2,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_2.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 28,
@@ -285,7 +285,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 3,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_3.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 25,
@@ -309,7 +309,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 4,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_4.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 22,
@@ -333,7 +333,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 5,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_5.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 15,
@@ -357,7 +357,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 6,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_6.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 15,
@@ -381,7 +381,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 7,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_7.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 15,
@@ -405,7 +405,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 8,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_8.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 15,
@@ -429,7 +429,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 9,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_9.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 22,
@@ -453,7 +453,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 10,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_10.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 25,
@@ -501,7 +501,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 12,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_2.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 31,
@@ -525,7 +525,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 13,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_3.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 41,
@@ -549,7 +549,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 14,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_4.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 41,
@@ -573,7 +573,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 15,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_5.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 41,
@@ -597,7 +597,7 @@
       "actorName": "asset/Actor/charactor/charactor_boy/character_boy.actor",
       "id": 16,
       "ignorePlayerSkin": true,
-      "image": "asset/Texture/Team/flag/flag_6.png",
+      "image": "asset/Texture/Team/flag/flag_1.png",
       "initPos": {
         "map": "map001",
         "x": 41,

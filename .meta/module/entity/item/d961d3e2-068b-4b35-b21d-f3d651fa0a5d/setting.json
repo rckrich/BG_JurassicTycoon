@@ -1,0 +1,25 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/White And Purple Technology Fountain/g2042_build_fountain.actor"
+    },
+    "canJump": false,
+    "canMove": false,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/Actor/White And Purple Technology Fountain/g2042_build_fountain.actor"
+    },
+    "name": {
+      "value": "efc3a9a1-e222-4794-b6f5-c6d1be0d8565"
+    },
+    "unAssailable": true,
+    "unDamageable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "8d3d1849f6229b80075e04a756f5cc15",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

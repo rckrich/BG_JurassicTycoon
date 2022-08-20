@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_ba5ba2ad-1688-4a73-89ce-06d4b780251a"
+    },
+    "skill": {
+      "type": "Base"
+    },
+    "skillReleaseWay": {
+      "isClick": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9cc82d9ab2a9baf2bd6014d078d66f8b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

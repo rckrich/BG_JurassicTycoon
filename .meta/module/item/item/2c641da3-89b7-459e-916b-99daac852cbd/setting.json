@@ -11,7 +11,7 @@
       "type": "Use"
     },
     "mesh": {
-      "asset": "asset/Mesh/Actor_mesh/01_shoes_r_widget.mesh"
+      "asset": "asset/Mesh/Blue Cat Display/g2042_pet_display_1.mesh"
     },
     "name": {
       "value": "item_2c641da3-89b7-459e-916b-99daac852cbd"
@@ -19,7 +19,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ca12b24b942cf79f8437da51bfcaf554",
+      "setting.json": "d83af4bd3421625438764f0b33452f05",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

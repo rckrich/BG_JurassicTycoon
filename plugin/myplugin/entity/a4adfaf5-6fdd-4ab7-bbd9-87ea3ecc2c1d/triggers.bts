@@ -1,0 +1,16 @@
+ENTITY_CLICK {
+	CreateNpc(
+		cfgName = "myplugin/e4980a81-3805-4e8f-b12f-4a8611c51860",
+		enableAI = false,
+		level = 0,
+		map = GetEntityMap(entity = $obj2),
+		name = "Resources_Collector",
+		owner = $obj2,
+		pos = {
+			x = 27.0,
+			y = 53.1,
+			z = 23.0
+		}
+	)
+	KillEntity(entity = $obj1)
+}

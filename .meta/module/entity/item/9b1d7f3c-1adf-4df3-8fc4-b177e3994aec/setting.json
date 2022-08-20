@@ -1,0 +1,219 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Yellow Egg With Crown/g2020_pet_egg_03.actor"
+    },
+    "canClick": true,
+    "name": {
+      "value": "7365af10-b992-4eef-9aea-385c06b2fc09"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_CreateNpc",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_EntityEntry",
+                        "rawval": "myplugin/d961d3e2-068b-4b35-b21d-f3d651fa0a5d"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "Prop"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_MapObj",
+                        "action": "ce800604-dc76-46b8-a682-ac15e55b0c47"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos",
+                        "rawval": {
+                          "pos": {
+                            "x": 36.0,
+                            "y": 53.1,
+                            "z": 23.0
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "3886705c-fced-4483-90c5-91d90cb5e8a3"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "461b9a8a-f71d-403d-bca3-234911942828"
+              },
+              "pos": {
+                "x": 477,
+                "y": 35
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetEntityMap",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "fd5b20e6-50db-4655-8c2c-093e5826f514"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ce800604-dc76-46b8-a682-ac15e55b0c47"
+              },
+              "pos": {
+                "x": 1029,
+                "y": 53
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "fd5b20e6-50db-4655-8c2c-093e5826f514"
+              },
+              "pos": {
+                "x": 1395
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "3886705c-fced-4483-90c5-91d90cb5e8a3"
+              },
+              "pos": {
+                "x": 1025,
+                "y": 164
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_KillEntity",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "b76e0695-1403-47e1-814f-b87f39ae2a84"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "c0f5c4c8-d07a-4dc2-baf7-abb93706cab6"
+              },
+              "pos": {
+                "x": 465,
+                "y": 396
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "b76e0695-1403-47e1-814f-b87f39ae2a84"
+              },
+              "pos": {
+                "x": 797,
+                "y": 353
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "50abe561-5a77-4d3f-b8f8-c4100414f420"
+            },
+            "type": "Trigger_EntityClick"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "461b9a8a-f71d-403d-bca3-234911942828"
+                  },
+                  {
+                    "action": "c0f5c4c8-d07a-4dc2-baf7-abb93706cab6"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "24e415a8-2f37-4816-96bc-71b7a4fd59f3"
+            },
+            "pos": {
+              "x": 149,
+              "y": 183
+            }
+          },
+          "type": "Trigger_EntityClick"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "2e966899a590402e8a82f9a30d64e9d4",
+      "triggers.bts": "da1296c4713b8742c336f314d57da1a6"
+    },
+    "VERSION": "0.22"
+  }
+}

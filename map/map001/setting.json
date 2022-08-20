@@ -6,14 +6,14 @@
   "scene": [
     {
       "class": "Entity",
-      "config": "myplugin/0376e193-fab8-40c1-ab20-716c0268cd4e",
+      "config": "myplugin/94870f49-81b4-4ee0-bcd2-2965c9c1a68c",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "id": "8753009864225046529",
-        "name": "NPC",
+        "id": "8767682830411431937",
+        "name": "Item_Object",
         "needSync": "true",
-        "position": "x:24.271844863892 y:53.001949310303 z:26.955341339111",
+        "position": "x:22.66802406311 y:52.999996185303 z:24.44849395752",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",
@@ -21,16 +21,63 @@
       }
     },
     {
-      "class": "DropItem",
-      "config": "myplugin/5a878cec-9a7a-4885-87d0-6e3af2c4fd42",
+      "class": "Entity",
+      "config": "myplugin/a4adfaf5-6fdd-4ab7-bbd9-87ea3ecc2c1d",
       "customProperties": [],
       "properties": {
         "batchType": "Static",
-        "fixRotation": false,
-        "id": "8758865251910680577",
-        "name": "Dropper",
+        "id": "8767688388813684737",
+        "name": "ResourcesCollector_Item",
         "needSync": "true",
-        "position": "x:20.417001724243 y:53.000003814697 z:29.943000793457",
+        "position": "x:26.974836349487 y:53.00244140625 z:23.904243469238",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/9ee8bcfa-89f5-4b73-a468-00e405017871",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8767694723412393985",
+        "name": "Prop_Item",
+        "needSync": "true",
+        "position": "x:31.268957138062 y:53.003936767578 z:24.445470809937",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/9b1d7f3c-1adf-4df3-8fc4-b177e3994aec",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8767698084818911233",
+        "name": "Store_Item",
+        "needSync": "true",
+        "position": "x:37.14737701416 y:53.000141143799 z:24.51070022583",
+        "rotation": "x:0 y:0 z:0",
+        "scale": "x:1 y:1 z:1",
+        "selectable": "true",
+        "useAnchor": "false"
+      }
+    },
+    {
+      "class": "Entity",
+      "config": "myplugin/5c497e6e-ed56-4d60-b5b8-c5f00acf8951",
+      "customProperties": [],
+      "properties": {
+        "batchType": "Static",
+        "id": "8767698527585337345",
+        "name": "Construction_Item",
+        "needSync": "true",
+        "position": "x:37.948616027832 y:52.999992370605 z:31.688875198364",
         "rotation": "x:0 y:0 z:0",
         "scale": "x:1 y:1 z:1",
         "selectable": "true",

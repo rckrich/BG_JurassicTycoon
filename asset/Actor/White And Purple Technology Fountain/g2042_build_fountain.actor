@@ -1,0 +1,36 @@
+<ActorTemplates>
+	<ActorTemplate SelectedRingSize="1" TextHeight="0" MaxDistance="16" SoundName2="" SoundName4="" SoundName5="" IntervalTime="2" WoundAngle="25" IsShowShadow="true" Alpha="1" SoundName3="" MinDistance="1" Volume="0.8" name="111.actor" SoundFileNum="0" SoundName1="" Skeleton="g2042_build_fountain.skel" WoundBone="" AttackScale="1" Originalscale="0.1 0.1 0.1">
+		<Skills>
+			<Skill TextMode="0" Name="idle" EnableWound="false" UserDefineTime="-2">
+				<Effect>
+					<Alpha value="1"/>
+					<roll value="-90"/>
+					<Times value="1"/>
+					<TimeScale value="1"/>
+					<Position_Y value="0"/>
+					<FollowActor value="true"/>
+					<BeginTime value="0"/>
+					<Position_Z value="0"/>
+					<FileName value="g2042_chishui.effect"/>
+					<SocketName value="Bone008"/>
+					<Position_X value="2.52131"/>
+					<CycleTime value="-1"/>
+					<type_name value="g2042_chishui"/>
+					<scale value="2"/>
+					<pitch value="0"/>
+					<yaw value="0"/>
+				</Effect>
+				<Animation Name="g2042_build_fountain_idle.anim" TimeScale="1" Channel="" Length="1.366" FadeTime="0.25" BeginTime="0" Times="-1"/>
+			</Skill>
+		</Skills>
+		<Anims>
+			<Anim Name="g2042_build_fountain_idle.anim"/>
+		</Anims>
+		<BodyParts>
+			<BodyPart DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1" SlaveName="1" MasterName="body">
+				<Skin UseEdge="false" ChangeColor="1.4013e-45 -0.487196 0.0893673 -0.567287" LocalBrightnessScale="1" MeshName="g2042_build_fountain.skin" SpecularColor="1.0 1.0 1.0 1.0" SpecularCoef="0.15" UseBloom="false" UseTransparentNearestSlice="false" UseReflect="false" LocalAlpha="1" UseOriginalcolor="false" UseOverlayColorReplaceMode="false" OverlayColor="1 1 1 1" UVSpeed="0 0" type_name="g2042_build_fountain" DiscardAlpha="0" SpecularStrength="1" EdgeColor="1.0 0 0 1.0"/>
+			</BodyPart>
+		</BodyParts>
+		<SubActors/>
+	</ActorTemplate>
+</ActorTemplates>

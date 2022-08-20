@@ -6,7 +6,7 @@
   "dropSpeed": 0.2,
   "icon": "@asset/Texture/Block/ice_packed.png",
   "itemname": "item_2c641da3-89b7-459e-916b-99daac852cbd",
-  "mesh": "asset/Mesh/Actor_mesh/01_shoes_r_widget.mesh",
+  "mesh": "asset/Mesh/Blue Cat Display/g2042_pet_display_1.mesh",
   "needSave": false,
   "stack_count_max": 1,
   "syncGameData": {

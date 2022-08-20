@@ -1,5 +1,6 @@
 {
   "data": {
+    "canAbandon": true,
     "icon": {
       "asset": "asset/Texture/Block/concrete_yellow.png"
     },
@@ -10,33 +11,43 @@
       },
       "type": "Use"
     },
+    "itemContainer": {
+      "isValid": true,
+      "itemType": {
+        "item": "myplugin/5a878cec-9a7a-4885-87d0-6e3af2c4fd42"
+      }
+    },
     "mesh": {
-      "asset": "asset/Mesh/Actor_mesh/01_hair_girl.mesh"
+      "asset": "asset/Mesh/Actor_mesh/02_hair_boy.mesh"
     },
     "name": {
       "value": "item_5a878cec-9a7a-4885-87d0-6e3af2c4fd42"
     },
-    "needSave": true,
     "triggers": {
       "list": [
         {
           "actions": [
             {
-              "__OBJ_TYPE": "Action_SpawnItemToWorld",
+              "__OBJ_TYPE": "Action_CreateNpc",
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Params",
                   "params": [
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_ItemEntry",
-                        "rawval": "myplugin/4b1a54dc-366f-45fb-8768-97a5ef9cbc76"
+                        "__OBJ_TYPE": "T_EntityEntry",
+                        "rawval": "myplugin/480fddb1-f273-4e02-a71b-7f51837ab644"
                       }
                     },
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_Int",
-                        "rawval": 1
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_MapObj",
+                        "action": "45f31b49-75a2-4085-b716-f3d10c8b1563"
                       }
                     },
                     {
@@ -44,36 +55,22 @@
                         "__OBJ_TYPE": "T_ScenePos",
                         "rawval": {
                           "pos": {
-                            "x": 33,
-                            "y": 53,
-                            "z": 30
+                            "x": 19.0,
+                            "y": 53.3,
+                            "z": 28.0
                           }
                         }
                       }
                     },
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_MapObj",
-                        "action": "e5abb531-62a0-4815-9e52-7593be14fd7a"
+                        "__OBJ_TYPE": "T_Bool"
                       }
                     },
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_Time",
-                        "rawval": {
-                          "value": 19999980
-                        }
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Bool",
-                        "rawval": true
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int"
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "cd06b5ac-df7d-4ee1-b489-ff404693e5eb"
                       }
                     },
                     {
@@ -85,10 +82,10 @@
                 }
               ],
               "id": {
-                "value": "9bd8d6de-aa1a-4a00-a1ca-1e7561d19e09"
+                "value": "053206ba-597e-47c5-8408-9010c6a3cc69"
               },
               "pos": {
-                "x": 453,
+                "x": 310,
                 "y": 42
               }
             },
@@ -101,18 +98,18 @@
                     {
                       "value": {
                         "__OBJ_TYPE": "T_Entity",
-                        "action": "033ed3f6-874e-418e-a38e-fc4731298879"
+                        "action": "392262ed-ab4d-47bb-bd6c-071ed1408bce"
                       }
                     }
                   ]
                 }
               ],
               "id": {
-                "value": "e5abb531-62a0-4815-9e52-7593be14fd7a"
+                "value": "45f31b49-75a2-4085-b716-f3d10c8b1563"
               },
               "pos": {
-                "x": 1026,
-                "y": 48
+                "x": 875,
+                "y": 45
               }
             },
             {
@@ -124,11 +121,28 @@
                 }
               ],
               "id": {
-                "value": "033ed3f6-874e-418e-a38e-fc4731298879"
+                "value": "392262ed-ab4d-47bb-bd6c-071ed1408bce"
               },
               "pos": {
-                "x": 1380,
-                "y": 50
+                "x": 1182,
+                "y": 57
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "cd06b5ac-df7d-4ee1-b489-ff404693e5eb"
+              },
+              "pos": {
+                "x": 889,
+                "y": 173
               },
               "type": "T_Entity"
             }
@@ -145,7 +159,7 @@
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "9bd8d6de-aa1a-4a00-a1ca-1e7561d19e09"
+                    "action": "053206ba-597e-47c5-8408-9010c6a3cc69"
                   }
                 ]
               }
@@ -165,8 +179,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "20cd1f6b210009211d7d591618dc19a9",
-      "triggers.bts": "ca2da127f9a3dc1c3f6d55c760c1f6de"
+      "setting.json": "24d12c49ceff17d0f5e78200eb1154f9",
+      "triggers.bts": "3565d9293de09e9d25fc5b6aa3309b7c"
     },
     "VERSION": "0.22"
   }
